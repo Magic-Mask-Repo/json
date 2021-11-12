@@ -2,7 +2,6 @@ name: Generate JSON
 on:
   schedule:
     - cron: '0 * * * *'
-
 jobs:
   build:
     runs-on: ubuntu-latest
