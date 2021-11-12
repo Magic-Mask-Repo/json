@@ -1,0 +1,41 @@
+{
+    "last_update": 1636727191000,
+    "modules": [
+        {
+            "id": "Better-MIUI-Icons",
+            "last_update": 1636726452000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Better-MIUI-Icons/archive/master.zip"
+        },
+        {
+            "id": "FOSSAPPS",
+            "last_update": 1636727697000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/FOSSAPPS/archive/master.zip"
+        },
+        {
+            "id": "KTKSR",
+            "last_update": 1636727695000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
+        },
+        {
+            "id": "magisk-captive-control",
+            "last_update": 1636727699000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Captive-Control/archive/master.zip"
+        },
+        {
+            "id": "magisk-drm-disabler",
+            "last_update": 1636727108000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-DRM-Disabler/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-DRM-Disabler/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-DRM-Disabler/archive/master.zip"
+        }
+    ],
+    "name": "Magic Mask"
+}
