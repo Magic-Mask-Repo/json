@@ -3,8 +3,8 @@ import json
 from github import Github
 
 # Configuration
-REPO_NAME = "Magic-Mask-Alt-Repo"
-REPO_TITLE = "Magic Mask Alt Repo"
+REPO_NAME = "Magic-Mask-Repo"
+REPO_TITLE = "Magic Mask"
 
 # Skeleton for the repository
 meta = {
