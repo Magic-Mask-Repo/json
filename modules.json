@@ -175,7 +175,7 @@
         },
         {
             "id": "Better-MIUI-Icons",
-            "last_update": 1636726452000,
+            "last_update": 1636743940000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/README.md",
             "prop_content": {
                 "author": "SpicyChair",
@@ -603,6 +603,52 @@
             },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/OneController/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/OneController/archive/master.zip"
+        },
+        {
+            "id": "selinux_permissive",
+            "last_update": 1636744233000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/permissiver/master/README.md",
+            "prop_content": {
+                "author": "Denis Efremov (@evdenis)",
+                "description": "Switch SELinux to permissive mode.",
+                "id": "selinux_permissive",
+                "name": "SELinux Permissive",
+                "version": "v1",
+                "versionCode": "1"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/permissiver/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/permissiver/archive/master.zip"
+        },
+        {
+            "id": "trzpixel",
+            "last_update": 1636743911000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/README.md",
+            "prop_content": {
+                "author": "trzpro",
+                "description": "Soli,GCam Seopolicy, NSG Seopolicy, Userdebug Vendor, Tele Extender, 4K60 enabler",
+                "id": "trzpixel",
+                "minMagisk": "17000",
+                "name": "Pixel-AllInOne",
+                "version": "v1.2",
+                "versionCode": "3"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-expander/archive/master.zip"
+        },
+        {
+            "id": "pixel4mbn",
+            "last_update": 1636742530000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/README.md",
+            "prop_content": {
+                "author": "trzpro",
+                "description": "Replace Pixel MBN's for enabling VoLTE",
+                "id": "pixel4mbn",
+                "name": "VoLTE for Pixel 4/4XL",
+                "version": "1.1",
+                "versionCode": "1"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-volte-enabler/archive/master.zip"
         },
         {
             "id": "pixelthemediconexpander",
