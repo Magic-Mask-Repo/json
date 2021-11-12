@@ -9,6 +9,13 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/acc/archive/master.zip"
         },
         {
+            "id": "acc",
+            "last_update": 1636740344000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/acc-1/archive/master.zip"
+        },
+        {
             "id": "active_edge_system_mod",
             "last_update": 1636729058000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/active_edge_system_mod/master/README.md",
@@ -23,6 +30,20 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/adreno-dev/archive/master.zip"
         },
         {
+            "id": "ainur_jamesdsp",
+            "last_update": 1636740326000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
+        },
+        {
+            "id": "ainur_narsil",
+            "last_update": 1636740742000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_narsil/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_narsil/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/ainur_narsil/archive/master.zip"
+        },
+        {
             "id": "airaudio",
             "last_update": 1636729054000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/airaudio/master/README.md",
@@ -35,6 +56,27 @@
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
+        },
+        {
+            "id": "ARCore_enabler",
+            "last_update": 1636740348000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
+        },
+        {
+            "id": "aria2c",
+            "last_update": 1636740884000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/aria2c/archive/master.zip"
+        },
+        {
+            "id": "benchkit",
+            "last_update": 1636740818000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/benchkit/archive/master.zip"
         },
         {
             "id": "Better-MIUI-Icons",
@@ -72,6 +114,27 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/ccbins/archive/master.zip"
         },
         {
+            "id": "clash_for_magisk",
+            "last_update": 1636740868000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/clash_for_magisk/archive/master.zip"
+        },
+        {
+            "id": "com.piyushgarg.rclone",
+            "last_update": 1636740744000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/com.piyushgarg.rclone/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/com.piyushgarg.rclone/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/com.piyushgarg.rclone/archive/master.zip"
+        },
+        {
+            "id": "Detach",
+            "last_update": 1636740339000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
+        },
+        {
             "id": "djs",
             "last_update": 1636729119000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/djs/master/README.md",
@@ -79,11 +142,39 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/djs/archive/master.zip"
         },
         {
+            "id": "dnscrypt-proxy2",
+            "last_update": 1636740887000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/dnscrypt-proxy2/archive/master.zip"
+        },
+        {
+            "id": "energizedprotection",
+            "last_update": 1636740336000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/energizedprotection/archive/master.zip"
+        },
+        {
+            "id": "Fdroid-Priv",
+            "last_update": 1636740746000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
+        },
+        {
             "id": "FOSSAPPS",
             "last_update": 1636727697000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/FOSSAPPS/archive/master.zip"
+        },
+        {
+            "id": "gvisualmod",
+            "last_update": 1636740812000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/G-VisualMod/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/G-VisualMod/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/G-VisualMod/archive/master.zip"
         },
         {
             "id": "GoogleDialerFramework",
@@ -107,6 +198,13 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
         },
         {
+            "id": "logcat",
+            "last_update": 1636740889000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/logcat/archive/master.zip"
+        },
+        {
             "id": "magisk-captive-control",
             "last_update": 1636727699000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/README.md",
@@ -119,6 +217,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-DRM-Disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-DRM-Disabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-DRM-Disabler/archive/master.zip"
+        },
+        {
+            "id": "magisk-drm-disabler",
+            "last_update": 1636740879000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/magisk-drm-disabler-1/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/magisk-drm-disabler-1/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/magisk-drm-disabler-1/archive/master.zip"
         },
         {
             "id": "magisk-frida",
@@ -142,6 +247,34 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/microG_installer/archive/master.zip"
         },
         {
+            "id": "miui-10-sounds",
+            "last_update": 1636740758000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
+        },
+        {
+            "id": "NFCScreenOff",
+            "last_update": 1636740754000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/NfcScreenOff/archive/master.zip"
+        },
+        {
+            "id": "noneDisplayCutout",
+            "last_update": 1636740881000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/noneDisplayCutout/archive/master.zip"
+        },
+        {
+            "id": "OneController",
+            "last_update": 1636740308000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/OneController/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/OneController/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/OneController/archive/master.zip"
+        },
+        {
             "id": "quickstepswitcher",
             "last_update": 1636729117000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/README.md",
@@ -149,11 +282,53 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/quickstepswitcher/archive/master.zip"
         },
         {
+            "id": "quickstepswitcher",
+            "last_update": 1636740321000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/QuickSwitch/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/QuickSwitch/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/QuickSwitch/archive/master.zip"
+        },
+        {
             "id": "riru-core",
             "last_update": 1636729056000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-core/archive/master.zip"
+        },
+        {
+            "id": "riru-sui",
+            "last_update": 1636740737000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-sui/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-sui/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/riru-sui/archive/master.zip"
+        },
+        {
+            "id": "riru_clipboard_whitelist",
+            "last_update": 1636740808000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_clipboard_whitelist/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_clipboard_whitelist/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/riru_clipboard_whitelist/archive/master.zip"
+        },
+        {
+            "id": "riru_edxposed",
+            "last_update": 1636740876000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_edxposed/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_edxposed/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/riru_edxposed/archive/master.zip"
+        },
+        {
+            "id": "riru_ifw_enhance",
+            "last_update": 1636740871000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/riru_ifw_enhance/archive/master.zip"
+        },
+        {
+            "id": "riru_location_report_enabler",
+            "last_update": 1636740814000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/riru_location_report_enabler/archive/master.zip"
         },
         {
             "id": "riru_lsposed",
@@ -170,11 +345,74 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_storage_redirect/archive/master.zip"
         },
         {
+            "id": "sqlite3",
+            "last_update": 1636740813000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/sqlite3/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/sqlite3/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/sqlite3/archive/master.zip"
+        },
+        {
+            "id": "ssh",
+            "last_update": 1636740806000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ssh/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ssh/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/ssh/archive/master.zip"
+        },
+        {
+            "id": "Systemless_TZData",
+            "last_update": 1636740816000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Systemless_TZData/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Systemless_TZData/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Systemless_TZData/archive/master.zip"
+        },
+        {
+            "id": "terminalmods",
+            "last_update": 1636740745000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminalmods/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminalmods/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/terminalmods/archive/master.zip"
+        },
+        {
+            "id": "terminal_debloater",
+            "last_update": 1636740355000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_debloater/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_debloater/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/terminal_debloater/archive/master.zip"
+        },
+        {
+            "id": "terminal_systemizer",
+            "last_update": 1636740346000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
+        },
+        {
+            "id": "ViPER4AndroidFX",
+            "last_update": 1636740313000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/ViPER4Android-FX/archive/master.zip"
+        },
+        {
+            "id": "WDAnimationcxair",
+            "last_update": 1636740878000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/WDAnimationcxair/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/WDAnimationcxair/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/WDAnimationcxair/archive/master.zip"
+        },
+        {
             "id": "wifi5ghzdisabler",
             "last_update": 1636729113000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/wifi5ghzdisabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/wifi5ghzdisabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/wifi5ghzdisabler/archive/master.zip"
+        },
+        {
+            "id": "xmlpak",
+            "last_update": 1636740866000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/xmlpak/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/xmlpak/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/xmlpak/archive/master.zip"
         }
     ],
     "name": "Magic Mask"
