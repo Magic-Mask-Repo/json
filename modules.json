@@ -560,6 +560,21 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
         {
+            "id": "MiuiAnimatedIcons",
+            "last_update": 1637013479000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/master/README.md",
+            "prop_content": {
+                "author": "@aadilgillani & @trzpro",
+                "description": "Miui Animated Icons Extracted From lmipro",
+                "id": "MiuiAnimatedIcons",
+                "name": "MiuiAnimatedIcons",
+                "version": "1",
+                "versionCode": "1"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/archive/master.zip"
+        },
+        {
             "id": "NFCScreenOff",
             "last_update": 1636740754000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/README.md",
