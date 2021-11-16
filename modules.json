@@ -900,21 +900,6 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_lsposed/archive/master.zip"
         },
         {
-            "id": "riru_storage_redirect",
-            "last_update": 1636729052000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_storage_redirect/master/README.md",
-            "prop_content": {
-                "author": "Rikka",
-                "description": "Enable Enhanced mode for Storage Isolation v6.0.0 or above. Storage Isolation is an app that allows you control how apps use your files.",
-                "id": "riru_storage_redirect",
-                "name": "Riru - Enhanced mode for Storage Isolation",
-                "version": "v25.1.1",
-                "versionCode": "74"
-            },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_storage_redirect/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/riru_storage_redirect/archive/master.zip"
-        },
-        {
             "id": "safetynet-fix",
             "last_update": 1637094240000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/safetynet-fix/master/README.md",
