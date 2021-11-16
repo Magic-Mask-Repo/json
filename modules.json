@@ -836,6 +836,21 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_storage_redirect/archive/master.zip"
         },
         {
+            "id": "safetynet-fix",
+            "last_update": 1637094240000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/safetynet-fix/master/README.md",
+            "prop_content": {
+                "author": "kdrag0n",
+                "description": "A universal fix for SafetyNet on Android 7\u201312 devices with hardware attestation and unlocked bootloaders.",
+                "id": "safetynet-fix",
+                "name": "Universal SafetyNet Fix",
+                "version": "v2.2.0",
+                "versionCode": "20200"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/safetynet-fix/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/safetynet-fix/archive/master.zip"
+        },
+        {
             "id": "sqlite3",
             "last_update": 1636740813000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/sqlite3/master/README.md",
