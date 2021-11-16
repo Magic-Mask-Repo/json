@@ -357,6 +357,23 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
         {
+            "id": "Fluid4Magisk",
+            "last_update": 1637095425000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/README.md",
+            "prop_content": {
+                "author": "JemyZhang",
+                "description": "navigation gestures app",
+                "id": "Fluid4Magisk",
+                "minMagisk": "17000",
+                "name": "Fluid4Magisk",
+                "support": "",
+                "version": "v1.2.1-c",
+                "versionCode": "64"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Fluid4Magisk/archive/master.zip"
+        },
+        {
             "id": "FOSSAPPS",
             "last_update": 1636727697000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/README.md",
@@ -418,6 +435,22 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/HideNavBar/archive/master.zip"
         },
         {
+            "id": "ios13emoji",
+            "last_update": 1637095369000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/README.md",
+            "prop_content": {
+                "author": "Tycho Regter",
+                "description": "Systemlessly replaces your default emojis with the iOS 13.2 emojis.",
+                "id": "ios13emoji",
+                "minMagisk": "17000",
+                "name": "iOS 13.2 Emojis",
+                "version": "v1.0",
+                "versionCode": "1"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/ios13emoji/archive/master.zip"
+        },
+        {
             "id": "KTKSR",
             "last_update": 1636727695000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
@@ -446,6 +479,22 @@
             },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/logcat/archive/master.zip"
+        },
+        {
+            "id": "looki75productsansfont",
+            "last_update": 1637095202000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/README.md",
+            "prop_content": {
+                "author": "Looki75@xda",
+                "description": "Systemlessly apply Product Sans font",
+                "id": "looki75productsansfont",
+                "minMagisk": "20200",
+                "name": "Looki75 Product Sans font",
+                "version": "V20",
+                "versionCode": "20"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/looki75productsansfont/archive/master.zip"
         },
         {
             "id": "magisk-captive-control",
@@ -482,21 +531,20 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-DRM-Disabler/archive/master.zip"
         },
         {
-            "id": "magisk-drm-disabler",
-            "last_update": 1636740879000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/magisk-drm-disabler-1/master/README.md",
+            "id": "201804036666",
+            "last_update": 1637095102000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/README.md",
             "prop_content": {
-                "author": "Atrate",
-                "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
-                "id": "magisk-drm-disabler",
-                "minMagisk": "2000",
-                "name": "Magisk DRM Disabler (MDD)",
-                "support": "https://gitlab.com/Atrate/magisk-drm-disabler",
-                "version": "v1.3.1",
-                "versionCode": "131"
+                "author": "Packy",
+                "description": "Change system fonts Systemlessly",
+                "id": "201804036666",
+                "minMagisk": "1500",
+                "name": "Magisk Font Changer ",
+                "version": "v2",
+                "versionCode": "1"
             },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/magisk-drm-disabler-1/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/magisk-drm-disabler-1/archive/master.zip"
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Font-Changer/archive/master.zip"
         },
         {
             "id": "magisk-frida",
@@ -620,6 +668,22 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/OneController/archive/master.zip"
         },
         {
+            "id": "Oxy-ify",
+            "last_update": 1637095228000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
+            "prop_content": {
+                "author": "MarcAnt01",
+                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
+                "id": "Oxy-ify",
+                "minMagisk": "17000",
+                "name": "Oxy-ify",
+                "version": "v2.2",
+                "versionCode": "5"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
+        },
+        {
             "id": "selinux_permissive",
             "last_update": 1636744233000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/permissiver/master/README.md",
@@ -664,6 +728,21 @@
             },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-volte-enabler/archive/master.zip"
+        },
+        {
+            "id": "Pixelify",
+            "last_update": 1637095072000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/README.md",
+            "prop_content": {
+                "author": "Kingsman44",
+                "description": "Enables pixel exclusive features :- Call Screening, Direct Call, Google Dialer Call Recording, Extreme Battery Saver, Hold For Me, Gboard Smart Compose, Adaptive Connectivity, Adaptive Sound, Next generation assistant, Pixel LiveWallpapers, Google Fit Heart rate and many more...",
+                "id": "Pixelify",
+                "name": "Pixelify",
+                "version": "V1.8",
+                "versionCode": "20211116"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/Pixelify/archive/master.zip"
         },
         {
             "id": "pixelthemediconexpander",
