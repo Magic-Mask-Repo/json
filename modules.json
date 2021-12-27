@@ -253,14 +253,7 @@
             "id": "clash_for_magisk",
             "last_update": 1636740868000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/README.md",
-            "prop_content": {
-                "author": "Dreamacro (module by Kr328)",
-                "description": "A rule-based tunnel in Go.",
-                "id": "clash_for_magisk",
-                "name": "Clash for Magisk",
-                "version": "6d375ac",
-                "versionCode": "30024"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/clash_for_magisk/archive/master.zip"
         },
