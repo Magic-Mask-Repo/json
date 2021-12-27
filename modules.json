@@ -128,21 +128,6 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
         },
         {
-            "id": "ARCore_enabler",
-            "last_update": 1636740348000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
-                "id": "ARCore_enabler",
-                "name": "ARCore/Playground Patcher",
-                "version": "v2.1",
-                "versionCode": "9"
-            },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
-        },
-        {
             "id": "aria2c",
             "last_update": 1636740884000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/README.md",
