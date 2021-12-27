@@ -748,15 +748,7 @@
             "id": "pixelthemediconexpander",
             "last_update": 1638936212000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/README.md",
-            "prop_content": {
-                "author": "trzpro",
-                "description": "Expands icon number of Material You Themed Icons",
-                "id": "pixelthemediconexpander",
-                "name": "Pixel Launcher Material You Icon Pack",
-                "support": "",
-                "version": "v1",
-                "versionCode": "3"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel_themed_icon_expander/archive/master.zip"
         },
