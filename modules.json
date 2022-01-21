@@ -1009,7 +1009,15 @@
             "id": "ViPER4AndroidFX",
             "last_update": 1636740313000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, Zackptg5",
+                "description": "ViPER4AndroidFX reborn - v2.7.x",
+                "id": "ViPER4AndroidFX",
+                "name": "ViPER4Android FX ",
+                "support": "https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651",
+                "version": "v2.7.2.1",
+                "versionCode": "2721"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ViPER4Android-FX/archive/master.zip"
         },
@@ -1017,7 +1025,16 @@
             "id": "WDAnimationcxair",
             "last_update": 1636740878000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/WDAnimationcxair/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "Follow": "https://t.me/MGStoreEthiopia",
+                "author": "Mikesew1320",
+                "description": "A module that helps to switch the Boot Animation, Shutdown Anmation and  Emojis to one of the Animations and Emojis included in this module for any supported device using volumekeys during installation.",
+                "id": "WDAnimationcxair",
+                "name": "BootAMoji Switcher",
+                "support": "https://t.me/MGStoreEthiopia or https://t.me/Mikesew1320 or https://t.me/BootAnimationSwitcherBot or https://github.com/Magisk-Modules-Repo/WDAnimationcxair",
+                "version": "v7.5-(Harar)",
+                "versionCode": "75"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/WDAnimationcxair/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/WDAnimationcxair/archive/master.zip"
         },
