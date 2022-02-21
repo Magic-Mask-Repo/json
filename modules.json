@@ -420,6 +420,21 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/GoogleDialerFramework/archive/master.zip"
         },
         {
+            "id": "HideNavBar",
+            "last_update": 1636729069000,
+            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/HideNavBar/master/README.md",
+            "prop_content": {
+                "author": "DanGLES3",
+                "description": "Customize Android 10-12's navigation gestures ",
+                "id": "HideNavBar",
+                "name": "Fullscreen/Immersive Gestures (Q-S)",
+                "version": "v9.9",
+                "versionCode": "37"
+            },
+            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/HideNavBar/master/module.prop",
+            "zip_url": "https://github.com/Magic-Mask-Repo/HideNavBar/archive/master.zip"
+        },
+        {
             "id": "ios13emoji",
             "last_update": 1637095369000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/README.md",
