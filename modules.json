@@ -684,21 +684,6 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
         {
-            "id": "selinux_permissive",
-            "last_update": 1636744233000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/permissiver/master/README.md",
-            "prop_content": {
-                "author": "Denis Efremov (@evdenis)",
-                "description": "Switch SELinux to permissive mode.",
-                "id": "selinux_permissive",
-                "name": "SELinux Permissive",
-                "version": "v1",
-                "versionCode": "1"
-            },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/permissiver/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/permissiver/archive/master.zip"
-        },
-        {
             "id": "trzpixel",
             "last_update": 1636743911000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/README.md",
