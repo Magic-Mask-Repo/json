@@ -205,36 +205,6 @@
             "zip_url": "https://github.com/Magic-Mask-Repo/BluetoothLibraryPatcher/archive/master.zip"
         },
         {
-            "id": "callrecorder-axet",
-            "last_update": 1636729005000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/callrecorder-axet/master/README.md",
-            "prop_content": {
-                "author": "di72nn",
-                "description": "Record calls with axet's Call Recorder (compatible with F-Droid updates)",
-                "id": "callrecorder-axet",
-                "name": "Axet's Call Recorder",
-                "version": "v1.0.1",
-                "versionCode": "10010"
-            },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/callrecorder-axet/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/callrecorder-axet/archive/master.zip"
-        },
-        {
-            "id": "callrecorder-skvalex",
-            "last_update": 1636728998000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/callrecorder-skvalex/master/README.md",
-            "prop_content": {
-                "author": "skvalex",
-                "description": "App to record phone calls from the line with a power of root and Magisk",
-                "id": "callrecorder-skvalex",
-                "name": "Call Recorder - SKVALEX",
-                "version": "2.1.0 (3.4.9)",
-                "versionCode": "40"
-            },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/callrecorder-skvalex/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/callrecorder-skvalex/archive/master.zip"
-        },
-        {
             "id": "ccbins",
             "last_update": 1707122076000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/README.md",
@@ -883,21 +853,6 @@
             },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_lsposed/archive/master.zip"
-        },
-        {
-            "id": "safetynet-fix",
-            "last_update": 1697745353000,
-            "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/safetynet-fix/master/README.md",
-            "prop_content": {
-                "author": "kdrag0n",
-                "description": "A universal fix for SafetyNet on Android 7\u201312 devices with hardware attestation and unlocked bootloaders.",
-                "id": "safetynet-fix",
-                "name": "Universal SafetyNet Fix",
-                "version": "v2.2.0",
-                "versionCode": "20200"
-            },
-            "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/safetynet-fix/master/module.prop",
-            "zip_url": "https://github.com/Magic-Mask-Repo/safetynet-fix/archive/master.zip"
         },
         {
             "id": "sqlite3",
