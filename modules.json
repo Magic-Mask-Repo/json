@@ -177,15 +177,7 @@
             "id": "Better-MIUI-Icons",
             "last_update": 1636743940000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/README.md",
-            "prop_content": {
-                "author": "SpicyChair",
-                "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM.",
-                "id": "Better-MIUI-Icons",
-                "name": "Better MIUI Icons",
-                "support": "https://forum.xda-developers.com/",
-                "version": "MIUI12 v1",
-                "versionCode": "1"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Better-MIUI-Icons/archive/master.zip"
         },
