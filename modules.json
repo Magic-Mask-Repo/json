@@ -300,7 +300,14 @@
             "id": "energizedprotection",
             "last_update": 1636740336000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "AdroitAdorKhan",
+                "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro",
+                "id": "energizedprotection",
+                "name": "Energized Protection",
+                "version": "1.3.5",
+                "versionCode": "210513135"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/energizedprotection/archive/master.zip"
         },
@@ -308,7 +315,14 @@
             "id": "Fdroid-Priv",
             "last_update": 1636740746000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Ryaniskira",
+                "description": "Installs F-Droid Privileged Extension systemlessly",
+                "id": "Fdroid-Priv",
+                "name": "F-Droid Privileged Extension",
+                "version": "2021-07-21",
+                "versionCode": "19"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
