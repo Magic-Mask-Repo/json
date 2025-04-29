@@ -86,7 +86,14 @@
             "id": "ainur_narsil",
             "last_update": 1636740742000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_narsil/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "UltraM8, Zackptg5, LazerL0rd, and JohnFawkes",
+                "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer.",
+                "id": "ainur_narsil",
+                "name": "Ainur Narsil",
+                "version": "MK I (09.09.2021)",
+                "versionCode": "52"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_narsil/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_narsil/archive/master.zip"
         },
@@ -109,7 +116,14 @@
             "id": "aospill",
             "last_update": 1636729061000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "DanGLES3",
+                "description": "AOSP Pill for Oxygen OS 10-11",
+                "id": "aospill",
+                "name": "AOSP Gesture bar for OxygenOS 10-11",
+                "version": "v3.1",
+                "versionCode": "4"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
         },
@@ -301,7 +315,14 @@
             "id": "Fdroid-Priv",
             "last_update": 1636740746000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Ryaniskira",
+                "description": "Installs F-Droid Privileged Extension systemlessly",
+                "id": "Fdroid-Priv",
+                "name": "F-Droid Privileged Extension",
+                "version": "2021-07-21",
+                "versionCode": "19"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
@@ -822,7 +843,14 @@
             "id": "riru_lsposed",
             "last_update": 1636729002000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "LSPosed Developers",
+                "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12, 12L DP1. Requires Riru 25.0.1 or above installed.",
+                "id": "riru_lsposed",
+                "name": "Riru - LSPosed",
+                "version": "v1.6.3 (6212)",
+                "versionCode": "6212"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_lsposed/archive/master.zip"
         },
