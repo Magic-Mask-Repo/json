@@ -315,14 +315,7 @@
             "id": "Fdroid-Priv",
             "last_update": 1636740746000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
-            "prop_content": {
-                "author": "Ryaniskira",
-                "description": "Installs F-Droid Privileged Extension systemlessly",
-                "id": "Fdroid-Priv",
-                "name": "F-Droid Privileged Extension",
-                "version": "2021-07-21",
-                "versionCode": "19"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
@@ -347,14 +340,7 @@
             "id": "FOSSAPPS",
             "last_update": 1636727697000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/README.md",
-            "prop_content": {
-                "author": "Wacko1805",
-                "description": "Basicly GAPPS, but all apps are open source and not Google apps",
-                "id": "FOSSAPPS",
-                "name": "FOSSAPPS",
-                "version": "v1.5",
-                "versionCode": "050620"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/FOSSAPPS/archive/master.zip"
         },
@@ -424,14 +410,7 @@
             "id": "KTKSR",
             "last_update": 1636727695000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
-            "prop_content": {
-                "author": "pedroginkgo",
-                "description": "A module which have the objective of maximize user experience.",
-                "id": "KTKSR",
-                "name": "King Tweaks Reborn",
-                "version": "1.8.2",
-                "versionCode": "182"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
         },
@@ -813,7 +792,14 @@
             "id": "riru_ifw_enhance",
             "last_update": 1636740871000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Kr328",
+                "description": "A module of Riru. Enhance intent firewall.",
+                "id": "riru_ifw_enhance",
+                "name": "Riru - IFW Enhance",
+                "version": "v7",
+                "versionCode": "7"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_ifw_enhance/archive/master.zip"
         },
