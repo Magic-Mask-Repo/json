@@ -52,7 +52,17 @@
             "id": "adreno-dev",
             "last_update": 1636729127000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "osm0sis @ xda-developers",
+                "description": "Replace ROM Adreno GPU drivers from Qualcomm",
+                "donate": "https://www.paypal.me/osm0sis",
+                "id": "adreno-dev",
+                "name": "Adreno GPU Developer Preview Drivers",
+                "support": "https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557",
+                "template": "1500",
+                "version": "#version#",
+                "versionCode": "30"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/adreno-dev/archive/master.zip"
         },
@@ -121,7 +131,14 @@
             "id": "ARCore_enabler",
             "last_update": 1636740348000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "MarcAnt01",
+                "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
+                "id": "ARCore_enabler",
+                "name": "ARCore/Playground Patcher",
+                "version": "v2.1",
+                "versionCode": "9"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
         },
@@ -407,7 +424,14 @@
             "id": "KTKSR",
             "last_update": 1636727695000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "pedroginkgo",
+                "description": "A module which have the objective of maximize user experience.",
+                "id": "KTKSR",
+                "name": "King Tweaks Reborn",
+                "version": "1.8.2",
+                "versionCode": "182"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
         },
@@ -617,7 +641,15 @@
             "id": "Oxy-ify",
             "last_update": 1637095228000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "MarcAnt01",
+                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
+                "id": "Oxy-ify",
+                "minMagisk": "17000",
+                "name": "Oxy-ify",
+                "version": "v2.2",
+                "versionCode": "5"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
@@ -781,14 +813,7 @@
             "id": "riru_ifw_enhance",
             "last_update": 1636740871000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/README.md",
-            "prop_content": {
-                "author": "Kr328",
-                "description": "A module of Riru. Enhance intent firewall.",
-                "id": "riru_ifw_enhance",
-                "name": "Riru - IFW Enhance",
-                "version": "v7",
-                "versionCode": "7"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_ifw_enhance/archive/master.zip"
         },
@@ -796,7 +821,14 @@
             "id": "riru_location_report_enabler",
             "last_update": 1636740814000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Rikka",
+                "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages.",
+                "id": "riru_location_report_enabler",
+                "name": "Riru - Location Report Enabler",
+                "version": "v11.0.0.r50.0b1d37f",
+                "versionCode": "50"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_location_report_enabler/archive/master.zip"
         },
