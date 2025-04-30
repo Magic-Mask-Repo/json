@@ -70,7 +70,15 @@
             "id": "ainur_jamesdsp",
             "last_update": 1636740326000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "james34602, zackptg5, ahrion",
+                "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+                "id": "ainur_jamesdsp",
+                "name": "JamesDSP Manager",
+                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
+                "version": "v4.2 (9-8-2021)",
+                "versionCode": "82"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
         },
