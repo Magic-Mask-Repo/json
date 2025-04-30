@@ -21,7 +21,15 @@
             "id": "acc",
             "last_update": 1636740344000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "VR25",
+                "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+                "domain": "vr25",
+                "id": "acc",
+                "name": "Advanced Charging Controller (ACC)",
+                "version": "v2021.11.3",
+                "versionCode": "202111030"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/acc-1/archive/master.zip"
         },
@@ -62,15 +70,7 @@
             "id": "ainur_jamesdsp",
             "last_update": 1636740326000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
-            "prop_content": {
-                "author": "james34602, zackptg5, ahrion",
-                "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
-                "id": "ainur_jamesdsp",
-                "name": "JamesDSP Manager",
-                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
-                "version": "v4.2 (9-8-2021)",
-                "versionCode": "82"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
         },
@@ -292,7 +292,14 @@
             "id": "energizedprotection",
             "last_update": 1636740336000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "AdroitAdorKhan",
+                "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro",
+                "id": "energizedprotection",
+                "name": "Energized Protection",
+                "version": "1.3.5",
+                "versionCode": "210513135"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/energizedprotection/archive/master.zip"
         },
