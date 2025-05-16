@@ -330,16 +330,7 @@
             "id": "Fluid4Magisk",
             "last_update": 1637095425000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/README.md",
-            "prop_content": {
-                "author": "JemyZhang",
-                "description": "navigation gestures app",
-                "id": "Fluid4Magisk",
-                "minMagisk": "17000",
-                "name": "Fluid4Magisk",
-                "support": "",
-                "version": "v1.2.1-c",
-                "versionCode": "64"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fluid4Magisk/archive/master.zip"
         },
@@ -933,15 +924,7 @@
             "id": "terminal_systemizer",
             "last_update": 1636740346000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
-            "prop_content": {
-                "author": "veez21",
-                "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
-                "id": "terminal_systemizer",
-                "minMagisk": "18000",
-                "name": "App Systemizer (Terminal Emulator)",
-                "version": "v17.3.1",
-                "versionCode": "70"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
         },
