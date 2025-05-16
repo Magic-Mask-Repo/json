@@ -255,7 +255,14 @@
             "id": "Detach",
             "last_update": 1636740339000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "hinxnz, Rom, Sobuj53",
+                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+                "id": "Detach",
+                "name": "Detach",
+                "version": "v5.3",
+                "versionCode": "530"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
         },
@@ -323,7 +330,16 @@
             "id": "Fluid4Magisk",
             "last_update": 1637095425000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "JemyZhang",
+                "description": "navigation gestures app",
+                "id": "Fluid4Magisk",
+                "minMagisk": "17000",
+                "name": "Fluid4Magisk",
+                "support": "",
+                "version": "v1.2.1-c",
+                "versionCode": "64"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fluid4Magisk/archive/master.zip"
         },
@@ -438,7 +454,15 @@
             "id": "looki75productsansfont",
             "last_update": 1637095202000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Looki75@xda",
+                "description": "Systemlessly apply Product Sans font",
+                "id": "looki75productsansfont",
+                "minMagisk": "20200",
+                "name": "Looki75 Product Sans font",
+                "version": "V20",
+                "versionCode": "20"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/looki75productsansfont/archive/master.zip"
         },
@@ -587,7 +611,14 @@
             "id": "noneDisplayCutout",
             "last_update": 1636740881000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "MlgmXyysd",
+                "description": "This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808.",
+                "id": "noneDisplayCutout",
+                "name": "None Display Cutout",
+                "version": "v2",
+                "versionCode": "2"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/noneDisplayCutout/archive/master.zip"
         },
@@ -718,7 +749,16 @@
             "id": "riru-core",
             "last_update": 1664202207000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Rikka, yujincheng08",
+                "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
+                "id": "riru-core",
+                "name": "Riru",
+                "riruApi": "26",
+                "riruMinApi": "24",
+                "version": "v26.1.3.r513.8e95115fd4",
+                "versionCode": "513"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-core/archive/master.zip"
         },
