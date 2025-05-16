@@ -843,14 +843,7 @@
             "id": "riru_lsposed",
             "last_update": 1636729002000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/README.md",
-            "prop_content": {
-                "author": "LSPosed Developers",
-                "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12, 12L DP1. Requires Riru 25.0.1 or above installed.",
-                "id": "riru_lsposed",
-                "name": "Riru - LSPosed",
-                "version": "v1.6.3 (6212)",
-                "versionCode": "6212"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_lsposed/archive/master.zip"
         },
@@ -997,14 +990,7 @@
             "id": "xmlpak",
             "last_update": 1636740866000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/xmlpak/master/README.md",
-            "prop_content": {
-                "author": "Tadi (j1505243 at xda)",
-                "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
-                "id": "xmlpak",
-                "name": "xmlpak \u2013 a road to vendor apps",
-                "version": "v3.6",
-                "versionCode": "36"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/xmlpak/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/xmlpak/archive/master.zip"
         }
