@@ -223,14 +223,7 @@
             "id": "clash_for_magisk",
             "last_update": 1636740868000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/README.md",
-            "prop_content": {
-                "author": "Dreamacro (module by Kr328)",
-                "description": "A rule-based tunnel in Go.",
-                "id": "clash_for_magisk",
-                "name": "Clash for Magisk",
-                "version": "6d375ac",
-                "versionCode": "30024"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/clash_for_magisk/archive/master.zip"
         },
@@ -285,14 +278,7 @@
             "id": "dnscrypt-proxy2",
             "last_update": 1636740887000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/README.md",
-            "prop_content": {
-                "author": "bluemeda [original author]-revived by lindroidux",
-                "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTP/2 & Anonymized DNSCrypt. Using upstream version DNSCrypt-proxy 2.0.44",
-                "id": "dnscrypt-proxy2",
-                "name": "DNSCrypt-Proxy2",
-                "version": "v2.9.7",
-                "versionCode": "34"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/dnscrypt-proxy2/archive/master.zip"
         },
@@ -393,14 +379,7 @@
             "id": "HideNavBar",
             "last_update": 1636729069000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/HideNavBar/master/README.md",
-            "prop_content": {
-                "author": "DanGLES3",
-                "description": "Customize Android 10-12's navigation gestures ",
-                "id": "HideNavBar",
-                "name": "Fullscreen/Immersive Gestures (Q-S)",
-                "version": "v9.9",
-                "versionCode": "37"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/HideNavBar/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/HideNavBar/archive/master.zip"
         },
@@ -424,14 +403,7 @@
             "id": "KTKSR",
             "last_update": 1636727695000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
-            "prop_content": {
-                "author": "pedroginkgo",
-                "description": "A module which have the objective of maximize user experience.",
-                "id": "KTKSR",
-                "name": "King Tweaks Reborn",
-                "version": "1.8.2",
-                "versionCode": "182"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
         },
@@ -487,16 +459,7 @@
             "id": "magisk-drm-disabler",
             "last_update": 1636727108000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-DRM-Disabler/master/README.md",
-            "prop_content": {
-                "author": "Atrate",
-                "description": "A Magisk Module aiming to eliminate DRM from Android systemlessly.",
-                "id": "magisk-drm-disabler",
-                "minMagisk": "2000",
-                "name": "Magisk DRM Disabler (MDD)",
-                "support": "https://gitlab.com/Atrate/magisk-drm-disabler",
-                "version": "v1.3.1",
-                "versionCode": "131"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-DRM-Disabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-DRM-Disabler/archive/master.zip"
         },
@@ -504,15 +467,7 @@
             "id": "201804036666",
             "last_update": 1637095102000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/README.md",
-            "prop_content": {
-                "author": "Packy",
-                "description": "Change system fonts Systemlessly",
-                "id": "201804036666",
-                "minMagisk": "1500",
-                "name": "Magisk Font Changer ",
-                "version": "v2",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Font-Changer/archive/master.zip"
         },
@@ -566,14 +521,7 @@
             "id": "miui-10-sounds",
             "last_update": 1636740758000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
-            "prop_content": {
-                "author": "4PERTURE",
-                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
-                "id": "miui-10-sounds",
-                "name": "MIUI 10 Sound Pack",
-                "version": "1.3",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
@@ -596,14 +544,7 @@
             "id": "NFCScreenOff",
             "last_update": 1636740754000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/README.md",
-            "prop_content": {
-                "author": "lapwat",
-                "description": "Read NFC tags when screen is off. Disable NFC tagging sound.",
-                "id": "NFCScreenOff",
-                "name": "NFC Screen Off",
-                "version": "v0.3.2",
-                "versionCode": "32"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/NfcScreenOff/archive/master.zip"
         },
@@ -641,15 +582,7 @@
             "id": "Oxy-ify",
             "last_update": 1637095228000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
-                "id": "Oxy-ify",
-                "minMagisk": "17000",
-                "name": "Oxy-ify",
-                "version": "v2.2",
-                "versionCode": "5"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
@@ -673,14 +606,7 @@
             "id": "pixel4mbn",
             "last_update": 1636742530000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/README.md",
-            "prop_content": {
-                "author": "trzpro",
-                "description": "Replace Pixel MBN's for enabling VoLTE",
-                "id": "pixel4mbn",
-                "name": "VoLTE for Pixel 4/4XL",
-                "version": "1.1",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-volte-enabler/archive/master.zip"
         },
@@ -719,14 +645,7 @@
             "id": "quickstepswitcher",
             "last_update": 1636729117000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/README.md",
-            "prop_content": {
-                "author": "The Lawnchair team",
-                "description": "Pie recents for any supported launcher",
-                "id": "quickstepswitcher",
-                "name": "QuickSwitch (Android Pie+)",
-                "version": "v3.1.8",
-                "versionCode": "3180"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/quickstepswitcher/archive/master.zip"
         },
@@ -749,16 +668,7 @@
             "id": "riru-core",
             "last_update": 1664202207000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/README.md",
-            "prop_content": {
-                "author": "Rikka, yujincheng08",
-                "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
-                "id": "riru-core",
-                "name": "Riru",
-                "riruApi": "26",
-                "riruMinApi": "24",
-                "version": "v26.1.3.r513.8e95115fd4",
-                "versionCode": "513"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-core/archive/master.zip"
         },
@@ -813,14 +723,7 @@
             "id": "riru_ifw_enhance",
             "last_update": 1636740871000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/README.md",
-            "prop_content": {
-                "author": "Kr328",
-                "description": "A module of Riru. Enhance intent firewall.",
-                "id": "riru_ifw_enhance",
-                "name": "Riru - IFW Enhance",
-                "version": "v7",
-                "versionCode": "7"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_ifw_enhance/archive/master.zip"
         },
@@ -873,14 +776,7 @@
             "id": "ssh",
             "last_update": 1636740806000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ssh/master/README.md",
-            "prop_content": {
-                "author": "D4rCM4rC",
-                "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
-                "id": "ssh",
-                "name": "SSH for Magisk",
-                "version": "v0.12",
-                "versionCode": "12"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ssh/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ssh/archive/master.zip"
         },
@@ -888,14 +784,7 @@
             "id": "Systemless_TZData",
             "last_update": 1636740816000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Systemless_TZData/master/README.md",
-            "prop_content": {
-                "author": "Ryaniskira & Nkh0472 & GrayJackFixxxer",
-                "description": "Update your ROM's tzdata (timezone data) file systemlessly. 2020F is installed on Android 10 and above, 2020A is installed on older versions.",
-                "id": "Systemless_TZData",
-                "name": "Systemless TZData",
-                "version": "2020A&F",
-                "versionCode": "16"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Systemless_TZData/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Systemless_TZData/archive/master.zip"
         },
@@ -933,15 +822,7 @@
             "id": "terminal_systemizer",
             "last_update": 1636740346000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
-            "prop_content": {
-                "author": "veez21",
-                "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
-                "id": "terminal_systemizer",
-                "minMagisk": "18000",
-                "name": "App Systemizer (Terminal Emulator)",
-                "version": "v17.3.1",
-                "versionCode": "70"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
         },
