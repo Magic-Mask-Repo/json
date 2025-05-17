@@ -116,14 +116,7 @@
             "id": "aospill",
             "last_update": 1636729061000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/README.md",
-            "prop_content": {
-                "author": "DanGLES3",
-                "description": "AOSP Pill for Oxygen OS 10-11",
-                "id": "aospill",
-                "name": "AOSP Gesture bar for OxygenOS 10-11",
-                "version": "v3.1",
-                "versionCode": "4"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
         },
@@ -131,14 +124,7 @@
             "id": "ARCore_enabler",
             "last_update": 1636740348000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
-                "id": "ARCore_enabler",
-                "name": "ARCore/Playground Patcher",
-                "version": "v2.1",
-                "versionCode": "9"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
         },
@@ -177,15 +163,7 @@
             "id": "Better-MIUI-Icons",
             "last_update": 1636743940000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/README.md",
-            "prop_content": {
-                "author": "SpicyChair",
-                "description": "Systemlessly install the nice icons from MiRoom to any MIUI 12-based ROM.",
-                "id": "Better-MIUI-Icons",
-                "name": "Better MIUI Icons",
-                "support": "https://forum.xda-developers.com/",
-                "version": "MIUI12 v1",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Better-MIUI-Icons/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Better-MIUI-Icons/archive/master.zip"
         },
@@ -238,16 +216,7 @@
             "id": "com.piyushgarg.rclone",
             "last_update": 1636740744000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/com.piyushgarg.rclone/master/README.md",
-            "prop_content": {
-                "BinVer": "1.56.0",
-                "author": "piyushgarg @ github.com",
-                "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info.",
-                "id": "com.piyushgarg.rclone",
-                "modVer": "1.16",
-                "name": "rclone-mount",
-                "version": "v1.16",
-                "versionCode": "114"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/com.piyushgarg.rclone/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
@@ -255,14 +224,7 @@
             "id": "Detach",
             "last_update": 1636740339000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
-            "prop_content": {
-                "author": "hinxnz, Rom, Sobuj53",
-                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
-                "id": "Detach",
-                "name": "Detach",
-                "version": "v5.3",
-                "versionCode": "530"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
         },
@@ -285,14 +247,7 @@
             "id": "dnscrypt-proxy2",
             "last_update": 1636740887000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/README.md",
-            "prop_content": {
-                "author": "bluemeda [original author]-revived by lindroidux",
-                "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTP/2 & Anonymized DNSCrypt. Using upstream version DNSCrypt-proxy 2.0.44",
-                "id": "dnscrypt-proxy2",
-                "name": "DNSCrypt-Proxy2",
-                "version": "v2.9.7",
-                "versionCode": "34"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/dnscrypt-proxy2/archive/master.zip"
         },
@@ -300,14 +255,7 @@
             "id": "energizedprotection",
             "last_update": 1636740336000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/README.md",
-            "prop_content": {
-                "author": "AdroitAdorKhan",
-                "description": "Let's make an annoyance free better open internet, altogether! https://energized.pro",
-                "id": "energizedprotection",
-                "name": "Energized Protection",
-                "version": "1.3.5",
-                "versionCode": "210513135"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/energizedprotection/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/energizedprotection/archive/master.zip"
         },
@@ -347,14 +295,7 @@
             "id": "FOSSAPPS",
             "last_update": 1636727697000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/README.md",
-            "prop_content": {
-                "author": "Wacko1805",
-                "description": "Basicly GAPPS, but all apps are open source and not Google apps",
-                "id": "FOSSAPPS",
-                "name": "FOSSAPPS",
-                "version": "v1.5",
-                "versionCode": "050620"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/FOSSAPPS/archive/master.zip"
         },
@@ -362,15 +303,7 @@
             "id": "gvisualmod",
             "last_update": 1636740812000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/G-VisualMod/master/README.md",
-            "prop_content": {
-                "author": "Gnonymous7",
-                "description": "Systemlessy customize your Android's Visual!",
-                "id": "gvisualmod",
-                "name": "G-Visual Mod",
-                "support": "Gnonymous7 @ XDA & Telegram",
-                "version": "v4.1",
-                "versionCode": "36"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/G-VisualMod/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/G-VisualMod/archive/master.zip"
         },
@@ -378,14 +311,7 @@
             "id": "GoogleDialerFramework",
             "last_update": 1636729059000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/GoogleDialerFramework/master/README.md",
-            "prop_content": {
-                "author": "TJJ",
-                "description": "Framework for installing the Google Dialer/Google Phone on Android",
-                "id": "GoogleDialerFramework",
-                "name": "Dialer Framework for Google Phone",
-                "version": "v6",
-                "versionCode": "6"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/GoogleDialerFramework/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/GoogleDialerFramework/archive/master.zip"
         },
@@ -408,15 +334,7 @@
             "id": "ios13emoji",
             "last_update": 1637095369000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/README.md",
-            "prop_content": {
-                "author": "Tycho Regter",
-                "description": "Systemlessly replaces your default emojis with the iOS 13.2 emojis.",
-                "id": "ios13emoji",
-                "minMagisk": "17000",
-                "name": "iOS 13.2 Emojis",
-                "version": "v1.0",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ios13emoji/archive/master.zip"
         },
@@ -424,14 +342,7 @@
             "id": "KTKSR",
             "last_update": 1636727695000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
-            "prop_content": {
-                "author": "pedroginkgo",
-                "description": "A module which have the objective of maximize user experience.",
-                "id": "KTKSR",
-                "name": "King Tweaks Reborn",
-                "version": "1.8.2",
-                "versionCode": "182"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
         },
@@ -520,14 +431,7 @@
             "id": "magisk-frida",
             "last_update": 1636729003000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/magisk-frida/master/README.md",
-            "prop_content": {
-                "author": "ViRb3",
-                "description": "Run frida-server on boot",
-                "id": "magisk-frida",
-                "name": "MagiskFrida",
-                "version": "15.1.10-1",
-                "versionCode": "151101"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/magisk-frida/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/magisk-frida/archive/master.zip"
         },
@@ -551,14 +455,7 @@
             "id": "microg_installer",
             "last_update": 1636729115000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/microG_installer/master/README.md",
-            "prop_content": {
-                "author": "nift4 (prev. maintainer: Hieu Van)",
-                "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app and MapsV1 to /system/framework",
-                "id": "microg_installer",
-                "name": "microG Installer Revived",
-                "version": "Revived 2.2.1-0",
-                "versionCode": "22100"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/microG_installer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/microG_installer/archive/master.zip"
         },
@@ -641,15 +538,7 @@
             "id": "Oxy-ify",
             "last_update": 1637095228000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
-                "id": "Oxy-ify",
-                "minMagisk": "17000",
-                "name": "Oxy-ify",
-                "version": "v2.2",
-                "versionCode": "5"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
@@ -657,15 +546,7 @@
             "id": "trzpixel",
             "last_update": 1636743911000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/README.md",
-            "prop_content": {
-                "author": "trzpro",
-                "description": "Soli,GCam Seopolicy, NSG Seopolicy, Userdebug Vendor, Tele Extender, 4K60 enabler",
-                "id": "trzpixel",
-                "minMagisk": "17000",
-                "name": "Pixel-AllInOne",
-                "version": "v1.2",
-                "versionCode": "3"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-expander/archive/master.zip"
         },
@@ -688,14 +569,7 @@
             "id": "Pixelify",
             "last_update": 1637095072000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/README.md",
-            "prop_content": {
-                "author": "Kingsman44",
-                "description": "Enables pixel exclusive features :- Call Screening, Direct Call, Google Dialer Call Recording, Extreme Battery Saver, Hold For Me, Gboard Smart Compose, Adaptive Connectivity, Adaptive Sound, Next generation assistant, Pixel LiveWallpapers, Google Fit Heart rate and many more...",
-                "id": "Pixelify",
-                "name": "Pixelify",
-                "version": "V1.8",
-                "versionCode": "20211116"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Pixelify/archive/master.zip"
         },
@@ -749,16 +623,7 @@
             "id": "riru-core",
             "last_update": 1664202207000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/README.md",
-            "prop_content": {
-                "author": "Rikka, yujincheng08",
-                "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
-                "id": "riru-core",
-                "name": "Riru",
-                "riruApi": "26",
-                "riruMinApi": "24",
-                "version": "v26.1.3.r513.8e95115fd4",
-                "versionCode": "513"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-core/archive/master.zip"
         },
@@ -766,14 +631,7 @@
             "id": "riru-sui",
             "last_update": 1641743352000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-sui/master/README.md",
-            "prop_content": {
-                "author": "Rikka",
-                "description": "Modern superuser interface implementation, shares the same API design from Shizuku. This modules requires Riru v25.0.0 or above.",
-                "id": "riru-sui",
-                "name": "Sui",
-                "version": "v12.2.1",
-                "versionCode": "235"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-sui/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-sui/archive/master.zip"
         },
