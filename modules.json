@@ -116,14 +116,7 @@
             "id": "aospill",
             "last_update": 1636729061000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/README.md",
-            "prop_content": {
-                "author": "DanGLES3",
-                "description": "AOSP Pill for Oxygen OS 10-11",
-                "id": "aospill",
-                "name": "AOSP Gesture bar for OxygenOS 10-11",
-                "version": "v3.1",
-                "versionCode": "4"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
         },
@@ -161,15 +154,7 @@
             "id": "benchkit",
             "last_update": 1636740818000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/README.md",
-            "prop_content": {
-                "author": "kdrag0n",
-                "description": "A developer-centric toolkit to facilitate in-depth profiling and benchmarking.",
-                "id": "benchkit",
-                "name": "Benchkit",
-                "support": "https://t.me/kdrag0n",
-                "version": "v2.6.4",
-                "versionCode": "200604"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/benchkit/archive/master.zip"
         },
@@ -223,14 +208,7 @@
             "id": "clash_for_magisk",
             "last_update": 1636740868000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/README.md",
-            "prop_content": {
-                "author": "Dreamacro (module by Kr328)",
-                "description": "A rule-based tunnel in Go.",
-                "id": "clash_for_magisk",
-                "name": "Clash for Magisk",
-                "version": "6d375ac",
-                "versionCode": "30024"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/clash_for_magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/clash_for_magisk/archive/master.zip"
         },
@@ -566,7 +544,14 @@
             "id": "miui-10-sounds",
             "last_update": 1636740758000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "4PERTURE",
+                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
+                "id": "miui-10-sounds",
+                "name": "MIUI 10 Sound Pack",
+                "version": "1.3",
+                "versionCode": "1"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
