@@ -52,17 +52,7 @@
             "id": "adreno-dev",
             "last_update": 1636729127000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/README.md",
-            "prop_content": {
-                "author": "osm0sis @ xda-developers",
-                "description": "Replace ROM Adreno GPU drivers from Qualcomm",
-                "donate": "https://www.paypal.me/osm0sis",
-                "id": "adreno-dev",
-                "name": "Adreno GPU Developer Preview Drivers",
-                "support": "https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557",
-                "template": "1500",
-                "version": "#version#",
-                "versionCode": "30"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/adreno-dev/archive/master.zip"
         },
@@ -70,7 +60,15 @@
             "id": "ainur_jamesdsp",
             "last_update": 1636740326000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "james34602, zackptg5, ahrion",
+                "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+                "id": "ainur_jamesdsp",
+                "name": "JamesDSP Manager",
+                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
+                "version": "v4.2 (9-8-2021)",
+                "versionCode": "82"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
         },
@@ -131,7 +129,14 @@
             "id": "aria2c",
             "last_update": 1636740884000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "lindroidux",
+                "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility. Upstream version 1.35.0 for aarch64 architecture.",
+                "id": "aria2c",
+                "name": "aria2c for android",
+                "version": "v0.1.1",
+                "versionCode": "2"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aria2c/archive/master.zip"
         },
@@ -139,15 +144,7 @@
             "id": "benchkit",
             "last_update": 1636740818000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/README.md",
-            "prop_content": {
-                "author": "kdrag0n",
-                "description": "A developer-centric toolkit to facilitate in-depth profiling and benchmarking.",
-                "id": "benchkit",
-                "name": "Benchkit",
-                "support": "https://t.me/kdrag0n",
-                "version": "v2.6.4",
-                "versionCode": "200604"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/benchkit/archive/master.zip"
         },
@@ -186,7 +183,14 @@
             "id": "ccbins",
             "last_update": 1707122076000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Zackptg5",
+                "description": "A growing collection of cross compiled binaries for android",
+                "id": "ccbins",
+                "name": "Cross Compiled Binaries",
+                "version": "v8.1",
+                "versionCode": "11"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ccbins/archive/master.zip"
         },
@@ -209,16 +213,7 @@
             "id": "com.piyushgarg.rclone",
             "last_update": 1636740744000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/com.piyushgarg.rclone/master/README.md",
-            "prop_content": {
-                "BinVer": "1.56.0",
-                "author": "piyushgarg @ github.com",
-                "description": "Mount cloud storage locally using rclone & fusermount. Virtually limitless storage expansion with support for dozens of cloud providers. Extremely useful for streaming large media files without need for full caching. Binaries obtained directly from rclone.org. Please refer to README.md for more info.",
-                "id": "com.piyushgarg.rclone",
-                "modVer": "1.16",
-                "name": "rclone-mount",
-                "version": "v1.16",
-                "versionCode": "114"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/com.piyushgarg.rclone/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/com.piyushgarg.rclone/archive/master.zip"
         },
@@ -226,7 +221,14 @@
             "id": "Detach",
             "last_update": 1636740339000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "hinxnz, Rom, Sobuj53",
+                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+                "id": "Detach",
+                "name": "Detach",
+                "version": "v5.3",
+                "versionCode": "530"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
         },
@@ -403,7 +405,14 @@
             "id": "logcat",
             "last_update": 1636740889000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "MlgmXyysd",
+                "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808.",
+                "id": "logcat",
+                "name": "Log Catcher",
+                "version": "v17",
+                "versionCode": "17"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/logcat/archive/master.zip"
         },
@@ -492,7 +501,15 @@
             "id": "MagiskHidePropsConf",
             "last_update": 1636729000000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Didgeridoohan",
+                "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset MagiskHide sensitive prop values. Change any prop values easily, and set your own custom props.",
+                "id": "MagiskHidePropsConf",
+                "name": "MagiskHide Props Config",
+                "settingsVersion": "40",
+                "version": "v6.1.2-v137",
+                "versionCode": "75"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MagiskHidePropsConf/archive/master.zip"
         },
@@ -500,7 +517,14 @@
             "id": "microg_installer",
             "last_update": 1636729115000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/microG_installer/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "nift4 (prev. maintainer: Hieu Van)",
+                "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app and MapsV1 to /system/framework",
+                "id": "microg_installer",
+                "name": "microG Installer Revived",
+                "version": "Revived 2.2.1-0",
+                "versionCode": "22100"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/microG_installer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/microG_installer/archive/master.zip"
         },
@@ -538,14 +562,7 @@
             "id": "NFCScreenOff",
             "last_update": 1636740754000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/README.md",
-            "prop_content": {
-                "author": "lapwat",
-                "description": "Read NFC tags when screen is off. Disable NFC tagging sound.",
-                "id": "NFCScreenOff",
-                "name": "NFC Screen Off",
-                "version": "v0.3.2",
-                "versionCode": "32"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/NfcScreenOff/archive/master.zip"
         },
@@ -553,14 +570,7 @@
             "id": "noneDisplayCutout",
             "last_update": 1636740881000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/README.md",
-            "prop_content": {
-                "author": "MlgmXyysd",
-                "description": "This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808.",
-                "id": "noneDisplayCutout",
-                "name": "None Display Cutout",
-                "version": "v2",
-                "versionCode": "2"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/noneDisplayCutout/archive/master.zip"
         },
@@ -599,15 +609,7 @@
             "id": "trzpixel",
             "last_update": 1636743911000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/README.md",
-            "prop_content": {
-                "author": "trzpro",
-                "description": "Soli,GCam Seopolicy, NSG Seopolicy, Userdebug Vendor, Tele Extender, 4K60 enabler",
-                "id": "trzpixel",
-                "minMagisk": "17000",
-                "name": "Pixel-AllInOne",
-                "version": "v1.2",
-                "versionCode": "3"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-expander/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-expander/archive/master.zip"
         },
@@ -770,14 +772,7 @@
             "id": "riru_location_report_enabler",
             "last_update": 1636740814000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/README.md",
-            "prop_content": {
-                "author": "Rikka",
-                "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages.",
-                "id": "riru_location_report_enabler",
-                "name": "Riru - Location Report Enabler",
-                "version": "v11.0.0.r50.0b1d37f",
-                "versionCode": "50"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_location_report_enabler/archive/master.zip"
         },
@@ -875,15 +870,7 @@
             "id": "terminal_systemizer",
             "last_update": 1636740346000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
-            "prop_content": {
-                "author": "veez21",
-                "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
-                "id": "terminal_systemizer",
-                "minMagisk": "18000",
-                "name": "App Systemizer (Terminal Emulator)",
-                "version": "v17.3.1",
-                "versionCode": "70"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
         },
@@ -891,15 +878,7 @@
             "id": "ViPER4AndroidFX",
             "last_update": 1636740313000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/README.md",
-            "prop_content": {
-                "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, Zackptg5",
-                "description": "ViPER4AndroidFX reborn - v2.7.x",
-                "id": "ViPER4AndroidFX",
-                "name": "ViPER4Android FX ",
-                "support": "https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651",
-                "version": "v2.7.2.1",
-                "versionCode": "2721"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ViPER4Android-FX/archive/master.zip"
         },
