@@ -37,7 +37,14 @@
             "id": "active_edge_system_mod",
             "last_update": 1636729058000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/active_edge_system_mod/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "j to the 4n, i5lee8bit, mikalovtch",
+                "description": "Allows customization of Active Edge in combination with Edge Sense Plus",
+                "id": "active_edge_system_mod",
+                "name": "[Re-continued]Active Edge Mod for Pixel devices",
+                "version": "v84",
+                "versionCode": "84"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/active_edge_system_mod/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/active_edge_system_mod/archive/master.zip"
         },
@@ -806,7 +813,14 @@
             "id": "riru_ifw_enhance",
             "last_update": 1636740871000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Kr328",
+                "description": "A module of Riru. Enhance intent firewall.",
+                "id": "riru_ifw_enhance",
+                "name": "Riru - IFW Enhance",
+                "version": "v7",
+                "versionCode": "7"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_ifw_enhance/archive/master.zip"
         },
