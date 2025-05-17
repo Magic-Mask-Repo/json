@@ -146,14 +146,7 @@
             "id": "aria2c",
             "last_update": 1636740884000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/README.md",
-            "prop_content": {
-                "author": "lindroidux",
-                "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility. Upstream version 1.35.0 for aarch64 architecture.",
-                "id": "aria2c",
-                "name": "aria2c for android",
-                "version": "v0.1.1",
-                "versionCode": "2"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aria2c/archive/master.zip"
         },
@@ -439,14 +432,7 @@
             "id": "logcat",
             "last_update": 1636740889000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/README.md",
-            "prop_content": {
-                "author": "MlgmXyysd",
-                "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808.",
-                "id": "logcat",
-                "name": "Log Catcher",
-                "version": "v17",
-                "versionCode": "17"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/logcat/archive/master.zip"
         },
@@ -454,15 +440,7 @@
             "id": "looki75productsansfont",
             "last_update": 1637095202000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/README.md",
-            "prop_content": {
-                "author": "Looki75@xda",
-                "description": "Systemlessly apply Product Sans font",
-                "id": "looki75productsansfont",
-                "minMagisk": "20200",
-                "name": "Looki75 Product Sans font",
-                "version": "V20",
-                "versionCode": "20"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/looki75productsansfont/archive/master.zip"
         },
@@ -535,15 +513,7 @@
             "id": "MagiskHidePropsConf",
             "last_update": 1636729000000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/README.md",
-            "prop_content": {
-                "author": "Didgeridoohan",
-                "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset MagiskHide sensitive prop values. Change any prop values easily, and set your own custom props.",
-                "id": "MagiskHidePropsConf",
-                "name": "MagiskHide Props Config",
-                "settingsVersion": "40",
-                "version": "v6.1.2-v137",
-                "versionCode": "75"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MagiskHidePropsConf/archive/master.zip"
         },
@@ -581,14 +551,7 @@
             "id": "iconanim",
             "last_update": 1637017204000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/master/README.md",
-            "prop_content": {
-                "author": "@aadilgillani & @trzpro",
-                "description": "Enable Icon Animation on Low-end Xiaomi Devices running MIUI ",
-                "id": "iconanim",
-                "name": "Miui Animated Icons",
-                "version": "3",
-                "versionCode": "3"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/archive/master.zip"
         },
@@ -796,16 +759,7 @@
             "id": "riru_edxposed",
             "last_update": 1636740876000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_edxposed/master/README.md",
-            "prop_content": {
-                "api": "93",
-                "author": "solohsu, MlgmXyysd",
-                "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.0, 8.1, 9, 10, 11 or above. Requires Riru v23 or above installed. Telegram: @EdXposed",
-                "id": "riru_edxposed",
-                "minApi": "10",
-                "name": "Riru - EdXposed",
-                "version": "v0.5.2.2_4683-master",
-                "versionCode": "4683"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_edxposed/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_edxposed/archive/master.zip"
         },
