@@ -70,15 +70,7 @@
             "id": "ainur_jamesdsp",
             "last_update": 1636740326000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
-            "prop_content": {
-                "author": "james34602, zackptg5, ahrion",
-                "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
-                "id": "ainur_jamesdsp",
-                "name": "JamesDSP Manager",
-                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
-                "version": "v4.2 (9-8-2021)",
-                "versionCode": "82"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
         },
@@ -131,14 +123,7 @@
             "id": "ARCore_enabler",
             "last_update": 1636740348000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
-                "id": "ARCore_enabler",
-                "name": "ARCore/Playground Patcher",
-                "version": "v2.1",
-                "versionCode": "9"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
         },
@@ -146,14 +131,7 @@
             "id": "aria2c",
             "last_update": 1636740884000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/README.md",
-            "prop_content": {
-                "author": "lindroidux",
-                "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility. Upstream version 1.35.0 for aarch64 architecture.",
-                "id": "aria2c",
-                "name": "aria2c for android",
-                "version": "v0.1.1",
-                "versionCode": "2"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aria2c/archive/master.zip"
         },
@@ -208,14 +186,7 @@
             "id": "ccbins",
             "last_update": 1707122076000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/README.md",
-            "prop_content": {
-                "author": "Zackptg5",
-                "description": "A growing collection of cross compiled binaries for android",
-                "id": "ccbins",
-                "name": "Cross Compiled Binaries",
-                "version": "v8.1",
-                "versionCode": "11"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ccbins/archive/master.zip"
         },
@@ -255,14 +226,7 @@
             "id": "Detach",
             "last_update": 1636740339000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
-            "prop_content": {
-                "author": "hinxnz, Rom, Sobuj53",
-                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
-                "id": "Detach",
-                "name": "Detach",
-                "version": "v5.3",
-                "versionCode": "530"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
         },
@@ -439,14 +403,7 @@
             "id": "logcat",
             "last_update": 1636740889000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/README.md",
-            "prop_content": {
-                "author": "MlgmXyysd",
-                "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808.",
-                "id": "logcat",
-                "name": "Log Catcher",
-                "version": "v17",
-                "versionCode": "17"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/logcat/archive/master.zip"
         },
@@ -535,15 +492,7 @@
             "id": "MagiskHidePropsConf",
             "last_update": 1636729000000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/README.md",
-            "prop_content": {
-                "author": "Didgeridoohan",
-                "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset MagiskHide sensitive prop values. Change any prop values easily, and set your own custom props.",
-                "id": "MagiskHidePropsConf",
-                "name": "MagiskHide Props Config",
-                "settingsVersion": "40",
-                "version": "v6.1.2-v137",
-                "versionCode": "75"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MagiskHidePropsConf/archive/master.zip"
         },
@@ -551,14 +500,7 @@
             "id": "microg_installer",
             "last_update": 1636729115000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/microG_installer/master/README.md",
-            "prop_content": {
-                "author": "nift4 (prev. maintainer: Hieu Van)",
-                "description": "Install microG GmsCore, GsfProxy, FakeStore & DroidGuard Helper to /system/priv-app and MapsV1 to /system/framework",
-                "id": "microg_installer",
-                "name": "microG Installer Revived",
-                "version": "Revived 2.2.1-0",
-                "versionCode": "22100"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/microG_installer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/microG_installer/archive/master.zip"
         },
