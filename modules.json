@@ -37,7 +37,14 @@
             "id": "active_edge_system_mod",
             "last_update": 1636729058000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/active_edge_system_mod/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "j to the 4n, i5lee8bit, mikalovtch",
+                "description": "Allows customization of Active Edge in combination with Edge Sense Plus",
+                "id": "active_edge_system_mod",
+                "name": "[Re-continued]Active Edge Mod for Pixel devices",
+                "version": "v84",
+                "versionCode": "84"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/active_edge_system_mod/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/active_edge_system_mod/archive/master.zip"
         },
@@ -63,7 +70,15 @@
             "id": "ainur_jamesdsp",
             "last_update": 1636740326000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "james34602, zackptg5, ahrion",
+                "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+                "id": "ainur_jamesdsp",
+                "name": "JamesDSP Manager",
+                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
+                "version": "v4.2 (9-8-2021)",
+                "versionCode": "82"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
         },
@@ -240,7 +255,14 @@
             "id": "Detach",
             "last_update": 1636740339000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "hinxnz, Rom, Sobuj53",
+                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+                "id": "Detach",
+                "name": "Detach",
+                "version": "v5.3",
+                "versionCode": "530"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
         },
@@ -263,7 +285,14 @@
             "id": "dnscrypt-proxy2",
             "last_update": 1636740887000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "bluemeda [original author]-revived by lindroidux",
+                "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTP/2 & Anonymized DNSCrypt. Using upstream version DNSCrypt-proxy 2.0.44",
+                "id": "dnscrypt-proxy2",
+                "name": "DNSCrypt-Proxy2",
+                "version": "v2.9.7",
+                "versionCode": "34"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/dnscrypt-proxy2/archive/master.zip"
         },
@@ -286,7 +315,14 @@
             "id": "Fdroid-Priv",
             "last_update": 1636740746000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Ryaniskira",
+                "description": "Installs F-Droid Privileged Extension systemlessly",
+                "id": "Fdroid-Priv",
+                "name": "F-Droid Privileged Extension",
+                "version": "2021-07-21",
+                "versionCode": "19"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
@@ -342,7 +378,14 @@
             "id": "GoogleDialerFramework",
             "last_update": 1636729059000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/GoogleDialerFramework/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "TJJ",
+                "description": "Framework for installing the Google Dialer/Google Phone on Android",
+                "id": "GoogleDialerFramework",
+                "name": "Dialer Framework for Google Phone",
+                "version": "v6",
+                "versionCode": "6"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/GoogleDialerFramework/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/GoogleDialerFramework/archive/master.zip"
         },
@@ -583,7 +626,14 @@
             "id": "OneController",
             "last_update": 1636740308000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/OneController/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Electric1447",
+                "description": "This module adds .kl file (keylayout) for Dualshock 4/3, Xbox Series X|S, Xbox One/S, Xbox 360.",
+                "id": "OneController",
+                "name": "1Controller - 1 Module to support all Controllers.",
+                "version": "v1.5.2",
+                "versionCode": "152"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/OneController/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/OneController/archive/master.zip"
         },
@@ -669,7 +719,14 @@
             "id": "quickstepswitcher",
             "last_update": 1636729117000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "The Lawnchair team",
+                "description": "Pie recents for any supported launcher",
+                "id": "quickstepswitcher",
+                "name": "QuickSwitch (Android Pie+)",
+                "version": "v3.1.8",
+                "versionCode": "3180"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/quickstepswitcher/archive/master.zip"
         },
@@ -677,7 +734,14 @@
             "id": "quickstepswitcher",
             "last_update": 1636740321000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/QuickSwitch/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "The Lawnchair team",
+                "description": "Pie recents for any supported launcher",
+                "id": "quickstepswitcher",
+                "name": "QuickSwitch (Android Pie+)",
+                "version": "v3.1.8",
+                "versionCode": "3180"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/QuickSwitch/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/QuickSwitch/archive/master.zip"
         },
@@ -685,7 +749,16 @@
             "id": "riru-core",
             "last_update": 1664202207000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Rikka, yujincheng08",
+                "description": "Inject into zygote and run codes from \"Riru\" modules in apps or the system server. Support modules which use Riru API v24+.",
+                "id": "riru-core",
+                "name": "Riru",
+                "riruApi": "26",
+                "riruMinApi": "24",
+                "version": "v26.1.3.r513.8e95115fd4",
+                "versionCode": "513"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-core/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-core/archive/master.zip"
         },
