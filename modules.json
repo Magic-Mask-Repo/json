@@ -70,7 +70,15 @@
             "id": "ainur_jamesdsp",
             "last_update": 1636740326000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "james34602, zackptg5, ahrion",
+                "description": "JamesDSPManager is a reformed audio engine based of AOSP and OmniROM DSPManager source code with enhanced features and tuning",
+                "id": "ainur_jamesdsp",
+                "name": "JamesDSP Manager",
+                "support": "https://forum.xda-developers.com/android/apps-games/app-reformed-dsp-manager-t3607970",
+                "version": "v4.2 (9-8-2021)",
+                "versionCode": "82"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_jamesdsp/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_jamesdsp/archive/master.zip"
         },
@@ -185,7 +193,14 @@
             "id": "BluetoothLibraryPatcher",
             "last_update": 1636728993000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/BluetoothLibraryPatcher/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "3arthur6",
+                "description": "Magisk module avoiding loss of bluetooth pairings after reboot or airplane mode switch on rooted samsung devices.",
+                "id": "BluetoothLibraryPatcher",
+                "name": "Bluetooth Library Patcher",
+                "version": "v2.3.1",
+                "versionCode": "231"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/BluetoothLibraryPatcher/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/BluetoothLibraryPatcher/archive/master.zip"
         },
@@ -193,7 +208,14 @@
             "id": "ccbins",
             "last_update": 1707122076000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Zackptg5",
+                "description": "A growing collection of cross compiled binaries for android",
+                "id": "ccbins",
+                "name": "Cross Compiled Binaries",
+                "version": "v8.1",
+                "versionCode": "11"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ccbins/archive/master.zip"
         },
@@ -233,7 +255,14 @@
             "id": "Detach",
             "last_update": 1636740339000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "hinxnz, Rom, Sobuj53",
+                "description": "Detach Market Links for Theme Ready Apps, originaly created by hinxnz, ported by Rom to works with Magisk.",
+                "id": "Detach",
+                "name": "Detach",
+                "version": "v5.3",
+                "versionCode": "530"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Detach/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Detach/archive/master.zip"
         },
@@ -256,7 +285,14 @@
             "id": "dnscrypt-proxy2",
             "last_update": 1636740887000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "bluemeda [original author]-revived by lindroidux",
+                "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTP/2 & Anonymized DNSCrypt. Using upstream version DNSCrypt-proxy 2.0.44",
+                "id": "dnscrypt-proxy2",
+                "name": "DNSCrypt-Proxy2",
+                "version": "v2.9.7",
+                "versionCode": "34"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/dnscrypt-proxy2/archive/master.zip"
         },
@@ -530,7 +566,14 @@
             "id": "miui-10-sounds",
             "last_update": 1636740758000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "4PERTURE",
+                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
+                "id": "miui-10-sounds",
+                "name": "MIUI 10 Sound Pack",
+                "version": "1.3",
+                "versionCode": "1"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
@@ -660,7 +703,15 @@
             "id": "pixelthemediconexpander",
             "last_update": 1638936212000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "trzpro",
+                "description": "Expands icon number of Material You Themed Icons",
+                "id": "pixelthemediconexpander",
+                "name": "Pixel Launcher Material You Icon Pack",
+                "support": "",
+                "version": "v1",
+                "versionCode": "3"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel_themed_icon_expander/archive/master.zip"
         },
