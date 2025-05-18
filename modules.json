@@ -208,14 +208,7 @@
             "id": "ccbins",
             "last_update": 1707122076000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/README.md",
-            "prop_content": {
-                "author": "Zackptg5",
-                "description": "A growing collection of cross compiled binaries for android",
-                "id": "ccbins",
-                "name": "Cross Compiled Binaries",
-                "version": "v8.1",
-                "versionCode": "11"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ccbins/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ccbins/archive/master.zip"
         },
@@ -285,14 +278,7 @@
             "id": "dnscrypt-proxy2",
             "last_update": 1636740887000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/README.md",
-            "prop_content": {
-                "author": "bluemeda [original author]-revived by lindroidux",
-                "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTP/2 & Anonymized DNSCrypt. Using upstream version DNSCrypt-proxy 2.0.44",
-                "id": "dnscrypt-proxy2",
-                "name": "DNSCrypt-Proxy2",
-                "version": "v2.9.7",
-                "versionCode": "34"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/dnscrypt-proxy2/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/dnscrypt-proxy2/archive/master.zip"
         },
@@ -330,16 +316,7 @@
             "id": "Fluid4Magisk",
             "last_update": 1637095425000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/README.md",
-            "prop_content": {
-                "author": "JemyZhang",
-                "description": "navigation gestures app",
-                "id": "Fluid4Magisk",
-                "minMagisk": "17000",
-                "name": "Fluid4Magisk",
-                "support": "",
-                "version": "v1.2.1-c",
-                "versionCode": "64"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fluid4Magisk/archive/master.zip"
         },
@@ -470,16 +447,7 @@
             "id": "magisk-captive-control",
             "last_update": 1636727699000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/README.md",
-            "prop_content": {
-                "author": "Atrate",
-                "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
-                "id": "magisk-captive-control",
-                "minMagisk": "2000",
-                "name": "Magisk Captive Control (MCC)",
-                "support": "https://gitlab.com/Atrate/magisk-captive-control",
-                "version": "v1.0.0",
-                "versionCode": "100"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Captive-Control/archive/master.zip"
         },
@@ -504,15 +472,7 @@
             "id": "201804036666",
             "last_update": 1637095102000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/README.md",
-            "prop_content": {
-                "author": "Packy",
-                "description": "Change system fonts Systemlessly",
-                "id": "201804036666",
-                "minMagisk": "1500",
-                "name": "Magisk Font Changer ",
-                "version": "v2",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Font-Changer/archive/master.zip"
         },
@@ -566,7 +526,14 @@
             "id": "miui-10-sounds",
             "last_update": 1636740758000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "4PERTURE",
+                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
+                "id": "miui-10-sounds",
+                "name": "MIUI 10 Sound Pack",
+                "version": "1.3",
+                "versionCode": "1"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
@@ -604,14 +571,7 @@
             "id": "noneDisplayCutout",
             "last_update": 1636740881000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/README.md",
-            "prop_content": {
-                "author": "MlgmXyysd",
-                "description": "This module provide you a option for hide your devices display cutout(notch). QQ chat group 855219808.",
-                "id": "noneDisplayCutout",
-                "name": "None Display Cutout",
-                "version": "v2",
-                "versionCode": "2"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/noneDisplayCutout/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/noneDisplayCutout/archive/master.zip"
         },
@@ -634,7 +594,15 @@
             "id": "Oxy-ify",
             "last_update": 1637095228000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "MarcAnt01",
+                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
+                "id": "Oxy-ify",
+                "minMagisk": "17000",
+                "name": "Oxy-ify",
+                "version": "v2.2",
+                "versionCode": "5"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
@@ -673,7 +641,14 @@
             "id": "Pixelify",
             "last_update": 1637095072000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "Kingsman44",
+                "description": "Enables pixel exclusive features :- Call Screening, Direct Call, Google Dialer Call Recording, Extreme Battery Saver, Hold For Me, Gboard Smart Compose, Adaptive Connectivity, Adaptive Sound, Next generation assistant, Pixel LiveWallpapers, Google Fit Heart rate and many more...",
+                "id": "Pixelify",
+                "name": "Pixelify",
+                "version": "V1.8",
+                "versionCode": "20211116"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Pixelify/archive/master.zip"
         },
@@ -903,7 +878,15 @@
             "id": "terminal_systemizer",
             "last_update": 1636740346000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "veez21",
+                "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
+                "id": "terminal_systemizer",
+                "minMagisk": "18000",
+                "name": "App Systemizer (Terminal Emulator)",
+                "version": "v17.3.1",
+                "versionCode": "70"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
         },
