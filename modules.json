@@ -566,14 +566,7 @@
             "id": "miui-10-sounds",
             "last_update": 1636740758000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
-            "prop_content": {
-                "author": "4PERTURE",
-                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
-                "id": "miui-10-sounds",
-                "name": "MIUI 10 Sound Pack",
-                "version": "1.3",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
@@ -641,15 +634,7 @@
             "id": "Oxy-ify",
             "last_update": 1637095228000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
-                "id": "Oxy-ify",
-                "minMagisk": "17000",
-                "name": "Oxy-ify",
-                "version": "v2.2",
-                "versionCode": "5"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
@@ -688,14 +673,7 @@
             "id": "Pixelify",
             "last_update": 1637095072000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/README.md",
-            "prop_content": {
-                "author": "Kingsman44",
-                "description": "Enables pixel exclusive features :- Call Screening, Direct Call, Google Dialer Call Recording, Extreme Battery Saver, Hold For Me, Gboard Smart Compose, Adaptive Connectivity, Adaptive Sound, Next generation assistant, Pixel LiveWallpapers, Google Fit Heart rate and many more...",
-                "id": "Pixelify",
-                "name": "Pixelify",
-                "version": "V1.8",
-                "versionCode": "20211116"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Pixelify/archive/master.zip"
         },
@@ -703,15 +681,7 @@
             "id": "pixelthemediconexpander",
             "last_update": 1638936212000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/README.md",
-            "prop_content": {
-                "author": "trzpro",
-                "description": "Expands icon number of Material You Themed Icons",
-                "id": "pixelthemediconexpander",
-                "name": "Pixel Launcher Material You Icon Pack",
-                "support": "",
-                "version": "v1",
-                "versionCode": "3"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel_themed_icon_expander/archive/master.zip"
         },
@@ -933,15 +903,7 @@
             "id": "terminal_systemizer",
             "last_update": 1636740346000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
-            "prop_content": {
-                "author": "veez21",
-                "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
-                "id": "terminal_systemizer",
-                "minMagisk": "18000",
-                "name": "App Systemizer (Terminal Emulator)",
-                "version": "v17.3.1",
-                "versionCode": "70"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
         },
