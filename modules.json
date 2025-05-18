@@ -719,14 +719,7 @@
             "id": "quickstepswitcher",
             "last_update": 1636729117000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/README.md",
-            "prop_content": {
-                "author": "The Lawnchair team",
-                "description": "Pie recents for any supported launcher",
-                "id": "quickstepswitcher",
-                "name": "QuickSwitch (Android Pie+)",
-                "version": "v3.1.8",
-                "versionCode": "3180"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/quickstepswitcher/archive/master.zip"
         },
