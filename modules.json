@@ -270,14 +270,7 @@
             "id": "djs",
             "last_update": 1636729119000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/djs/master/README.md",
-            "prop_content": {
-                "author": "VR25",
-                "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
-                "id": "djs",
-                "name": "Daily Job Scheduler (DJS)",
-                "version": "v2021.10.30",
-                "versionCode": "202110300"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/djs/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/djs/archive/master.zip"
         },
@@ -315,14 +308,7 @@
             "id": "Fdroid-Priv",
             "last_update": 1636740746000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
-            "prop_content": {
-                "author": "Ryaniskira",
-                "description": "Installs F-Droid Privileged Extension systemlessly",
-                "id": "Fdroid-Priv",
-                "name": "F-Droid Privileged Extension",
-                "version": "2021-07-21",
-                "versionCode": "19"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
@@ -470,16 +456,7 @@
             "id": "magisk-captive-control",
             "last_update": 1636727699000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/README.md",
-            "prop_content": {
-                "author": "Atrate",
-                "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
-                "id": "magisk-captive-control",
-                "minMagisk": "2000",
-                "name": "Magisk Captive Control (MCC)",
-                "support": "https://gitlab.com/Atrate/magisk-captive-control",
-                "version": "v1.0.0",
-                "versionCode": "100"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Captive-Control/archive/master.zip"
         },
