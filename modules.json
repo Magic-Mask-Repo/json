@@ -5,7 +5,15 @@
             "id": "acc",
             "last_update": 1636729007000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "VR25",
+                "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+                "domain": "vr25",
+                "id": "acc",
+                "name": "Advanced Charging Controller (ACC)",
+                "version": "v2021.11.3",
+                "versionCode": "202111030"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/acc/archive/master.zip"
         },
@@ -13,7 +21,15 @@
             "id": "acc",
             "last_update": 1636740344000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "VR25",
+                "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+                "domain": "vr25",
+                "id": "acc",
+                "name": "Advanced Charging Controller (ACC)",
+                "version": "v2021.11.3",
+                "versionCode": "202111030"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/acc-1/archive/master.zip"
         },
