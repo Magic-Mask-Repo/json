@@ -315,14 +315,7 @@
             "id": "Fdroid-Priv",
             "last_update": 1636740746000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/README.md",
-            "prop_content": {
-                "author": "Ryaniskira",
-                "description": "Installs F-Droid Privileged Extension systemlessly",
-                "id": "Fdroid-Priv",
-                "name": "F-Droid Privileged Extension",
-                "version": "2021-07-21",
-                "versionCode": "19"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fdroid-Priv/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fdroid-Priv/archive/master.zip"
         },
@@ -330,16 +323,7 @@
             "id": "Fluid4Magisk",
             "last_update": 1637095425000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/README.md",
-            "prop_content": {
-                "author": "JemyZhang",
-                "description": "navigation gestures app",
-                "id": "Fluid4Magisk",
-                "minMagisk": "17000",
-                "name": "Fluid4Magisk",
-                "support": "",
-                "version": "v1.2.1-c",
-                "versionCode": "64"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Fluid4Magisk/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Fluid4Magisk/archive/master.zip"
         },
@@ -347,14 +331,7 @@
             "id": "FOSSAPPS",
             "last_update": 1636727697000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/README.md",
-            "prop_content": {
-                "author": "Wacko1805",
-                "description": "Basicly GAPPS, but all apps are open source and not Google apps",
-                "id": "FOSSAPPS",
-                "name": "FOSSAPPS",
-                "version": "v1.5",
-                "versionCode": "050620"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/FOSSAPPS/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/FOSSAPPS/archive/master.zip"
         },
@@ -408,15 +385,7 @@
             "id": "ios13emoji",
             "last_update": 1637095369000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/README.md",
-            "prop_content": {
-                "author": "Tycho Regter",
-                "description": "Systemlessly replaces your default emojis with the iOS 13.2 emojis.",
-                "id": "ios13emoji",
-                "minMagisk": "17000",
-                "name": "iOS 13.2 Emojis",
-                "version": "v1.0",
-                "versionCode": "1"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ios13emoji/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ios13emoji/archive/master.zip"
         },
@@ -424,14 +393,7 @@
             "id": "KTKSR",
             "last_update": 1636727695000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/README.md",
-            "prop_content": {
-                "author": "pedroginkgo",
-                "description": "A module which have the objective of maximize user experience.",
-                "id": "KTKSR",
-                "name": "King Tweaks Reborn",
-                "version": "1.8.2",
-                "versionCode": "182"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/King-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/King-Tweaks/archive/master.zip"
         },
@@ -535,15 +497,7 @@
             "id": "MagiskHidePropsConf",
             "last_update": 1636729000000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/README.md",
-            "prop_content": {
-                "author": "Didgeridoohan",
-                "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset MagiskHide sensitive prop values. Change any prop values easily, and set your own custom props.",
-                "id": "MagiskHidePropsConf",
-                "name": "MagiskHide Props Config",
-                "settingsVersion": "40",
-                "version": "v6.1.2-v137",
-                "versionCode": "75"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MagiskHidePropsConf/archive/master.zip"
         },
@@ -766,14 +720,7 @@
             "id": "riru-sui",
             "last_update": 1641743352000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-sui/master/README.md",
-            "prop_content": {
-                "author": "Rikka",
-                "description": "Modern superuser interface implementation, shares the same API design from Shizuku. This modules requires Riru v25.0.0 or above.",
-                "id": "riru-sui",
-                "name": "Sui",
-                "version": "v12.2.1",
-                "versionCode": "235"
-            },
+            "prop_content": {},
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru-sui/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru-sui/archive/master.zip"
         },
