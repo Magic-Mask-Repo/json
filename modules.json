@@ -52,7 +52,17 @@
             "id": "adreno-dev",
             "last_update": 1636729127000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "osm0sis @ xda-developers",
+                "description": "Replace ROM Adreno GPU drivers from Qualcomm",
+                "donate": "https://www.paypal.me/osm0sis",
+                "id": "adreno-dev",
+                "name": "Adreno GPU Developer Preview Drivers",
+                "support": "https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557",
+                "template": "1500",
+                "version": "#version#",
+                "versionCode": "30"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/adreno-dev/archive/master.zip"
         },
@@ -106,7 +116,14 @@
             "id": "aospill",
             "last_update": 1636729061000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "DanGLES3",
+                "description": "AOSP Pill for Oxygen OS 10-11",
+                "id": "aospill",
+                "name": "AOSP Gesture bar for OxygenOS 10-11",
+                "version": "v3.1",
+                "versionCode": "4"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
         },
@@ -114,7 +131,14 @@
             "id": "ARCore_enabler",
             "last_update": 1636740348000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "MarcAnt01",
+                "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
+                "id": "ARCore_enabler",
+                "name": "ARCore/Playground Patcher",
+                "version": "v2.1",
+                "versionCode": "9"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
         },
@@ -137,7 +161,15 @@
             "id": "benchkit",
             "last_update": 1636740818000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "kdrag0n",
+                "description": "A developer-centric toolkit to facilitate in-depth profiling and benchmarking.",
+                "id": "benchkit",
+                "name": "Benchkit",
+                "support": "https://t.me/kdrag0n",
+                "version": "v2.6.4",
+                "versionCode": "200604"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/benchkit/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/benchkit/archive/master.zip"
         },
