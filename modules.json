@@ -673,7 +673,14 @@
             "id": "pixel4mbn",
             "last_update": 1636742530000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/README.md",
-            "prop_content": {},
+            "prop_content": {
+                "author": "trzpro",
+                "description": "Replace Pixel MBN's for enabling VoLTE",
+                "id": "pixel4mbn",
+                "name": "VoLTE for Pixel 4/4XL",
+                "version": "1.1",
+                "versionCode": "1"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel-4-volte-enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel-4-volte-enabler/archive/master.zip"
         },
