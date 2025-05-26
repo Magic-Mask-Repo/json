@@ -21,15 +21,7 @@
             "id": "acc",
             "last_update": 1636740344000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/README.md",
-            "prop_content": {
-                "author": "VR25",
-                "description": "Mainly intended for extending battery service life on Android devices. In a nutshell, this is achieved through limiting charging current, temperature and voltage. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
-                "domain": "vr25",
-                "id": "acc",
-                "name": "Advanced Charging Controller (ACC)",
-                "version": "v2021.11.3",
-                "versionCode": "202111030"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/acc-1/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/acc-1/archive/master.zip"
         },
@@ -52,17 +44,7 @@
             "id": "adreno-dev",
             "last_update": 1636729127000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/README.md",
-            "prop_content": {
-                "author": "osm0sis @ xda-developers",
-                "description": "Replace ROM Adreno GPU drivers from Qualcomm",
-                "donate": "https://www.paypal.me/osm0sis",
-                "id": "adreno-dev",
-                "name": "Adreno GPU Developer Preview Drivers",
-                "support": "https://forum.xda-developers.com/google-nexus-5/themes-apps/marshmallow-qualcomm-adreno-gpu-drivers-t3228002/post67117557#post67117557",
-                "template": "1500",
-                "version": "#version#",
-                "versionCode": "30"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/adreno-dev/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/adreno-dev/archive/master.zip"
         },
@@ -86,14 +68,7 @@
             "id": "ainur_narsil",
             "last_update": 1636740742000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_narsil/master/README.md",
-            "prop_content": {
-                "author": "UltraM8, Zackptg5, LazerL0rd, and JohnFawkes",
-                "description": "NARSIL is system-wide audio modification that helps keeping android playback tract clean from most sound FX (OpenSL & hardware DSPs). This might be especially handy for devices with great internal codecs & DACs - leaving pure hardware audio tuned by manufacturer.",
-                "id": "ainur_narsil",
-                "name": "Ainur Narsil",
-                "version": "MK I (09.09.2021)",
-                "versionCode": "52"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ainur_narsil/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ainur_narsil/archive/master.zip"
         },
@@ -116,14 +91,7 @@
             "id": "aospill",
             "last_update": 1636729061000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/README.md",
-            "prop_content": {
-                "author": "DanGLES3",
-                "description": "AOSP Pill for Oxygen OS 10-11",
-                "id": "aospill",
-                "name": "AOSP Gesture bar for OxygenOS 10-11",
-                "version": "v3.1",
-                "versionCode": "4"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aospill/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aospill/archive/master.zip"
         },
@@ -131,14 +99,7 @@
             "id": "ARCore_enabler",
             "last_update": 1636740348000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Enables ARCore support for unsupported devices and allows to install Playground packages and other apps that support ARCore directly via Play Store or Play Store add-ons.",
-                "id": "ARCore_enabler",
-                "name": "ARCore/Playground Patcher",
-                "version": "v2.1",
-                "versionCode": "9"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ARCore_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ARCore_enabler/archive/master.zip"
         },
@@ -146,14 +107,7 @@
             "id": "aria2c",
             "last_update": 1636740884000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/README.md",
-            "prop_content": {
-                "author": "lindroidux",
-                "description": "aria2 is a lightweight multi-protocol & multi-source command-line download utility. Upstream version 1.35.0 for aarch64 architecture.",
-                "id": "aria2c",
-                "name": "aria2c for android",
-                "version": "v0.1.1",
-                "versionCode": "2"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/aria2c/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/aria2c/archive/master.zip"
         },
@@ -439,7 +393,14 @@
             "id": "logcat",
             "last_update": 1636740889000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "MlgmXyysd",
+                "description": "Catch boot log to /data/local/boot/boot-$time.log. QQ chat group 855219808.",
+                "id": "logcat",
+                "name": "Log Catcher",
+                "version": "v17",
+                "versionCode": "17"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/logcat/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/logcat/archive/master.zip"
         },
@@ -447,7 +408,15 @@
             "id": "looki75productsansfont",
             "last_update": 1637095202000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "Looki75@xda",
+                "description": "Systemlessly apply Product Sans font",
+                "id": "looki75productsansfont",
+                "minMagisk": "20200",
+                "name": "Looki75 Product Sans font",
+                "version": "V20",
+                "versionCode": "20"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/looki75productsansfont/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/looki75productsansfont/archive/master.zip"
         },
@@ -455,7 +424,16 @@
             "id": "magisk-captive-control",
             "last_update": 1636727699000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "Atrate",
+                "description": "A Magisk Module aiming to control (change/disable) Android Captive Portal Detection.",
+                "id": "magisk-captive-control",
+                "minMagisk": "2000",
+                "name": "Magisk Captive Control (MCC)",
+                "support": "https://gitlab.com/Atrate/magisk-captive-control",
+                "version": "v1.0.0",
+                "versionCode": "100"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Captive-Control/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Captive-Control/archive/master.zip"
         },
@@ -480,7 +458,15 @@
             "id": "201804036666",
             "last_update": 1637095102000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "Packy",
+                "description": "Change system fonts Systemlessly",
+                "id": "201804036666",
+                "minMagisk": "1500",
+                "name": "Magisk Font Changer ",
+                "version": "v2",
+                "versionCode": "1"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Magisk-Font-Changer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Magisk-Font-Changer/archive/master.zip"
         },
@@ -503,7 +489,15 @@
             "id": "MagiskHidePropsConf",
             "last_update": 1636729000000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "Didgeridoohan",
+                "description": "Change your device's fingerprint, to pass SafetyNet's CTS Profile check. Set/reset MagiskHide sensitive prop values. Change any prop values easily, and set your own custom props.",
+                "id": "MagiskHidePropsConf",
+                "name": "MagiskHide Props Config",
+                "settingsVersion": "40",
+                "version": "v6.1.2-v137",
+                "versionCode": "75"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MagiskHidePropsConf/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MagiskHidePropsConf/archive/master.zip"
         },
@@ -526,7 +520,14 @@
             "id": "miui-10-sounds",
             "last_update": 1636740758000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "4PERTURE",
+                "description": "This module adds the nice MIUI 10 sounds to any ROM, systemlessly.",
+                "id": "miui-10-sounds",
+                "name": "MIUI 10 Sound Pack",
+                "version": "1.3",
+                "versionCode": "1"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/miui-10-sounds/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/miui-10-sounds/archive/master.zip"
         },
@@ -534,7 +535,14 @@
             "id": "iconanim",
             "last_update": 1637017204000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/master/README.md",
-            "prop_content": null,
+            "prop_content": {
+                "author": "@aadilgillani & @trzpro",
+                "description": "Enable Icon Animation on Low-end Xiaomi Devices running MIUI ",
+                "id": "iconanim",
+                "name": "Miui Animated Icons",
+                "version": "3",
+                "versionCode": "3"
+            },
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/MIUI-ANIMATED-ICONS/archive/master.zip"
         },
@@ -542,14 +550,7 @@
             "id": "NFCScreenOff",
             "last_update": 1636740754000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/README.md",
-            "prop_content": {
-                "author": "lapwat",
-                "description": "Read NFC tags when screen is off. Disable NFC tagging sound.",
-                "id": "NFCScreenOff",
-                "name": "NFC Screen Off",
-                "version": "v0.3.2",
-                "versionCode": "32"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/NfcScreenOff/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/NfcScreenOff/archive/master.zip"
         },
@@ -587,15 +588,7 @@
             "id": "Oxy-ify",
             "last_update": 1637095228000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/README.md",
-            "prop_content": {
-                "author": "MarcAnt01",
-                "description": "Get Oxygen OS boot animation, custom media, apps and OnePlus Slate font.",
-                "id": "Oxy-ify",
-                "minMagisk": "17000",
-                "name": "Oxy-ify",
-                "version": "v2.2",
-                "versionCode": "5"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Oxy-ify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Oxy-ify/archive/master.zip"
         },
@@ -634,14 +627,7 @@
             "id": "Pixelify",
             "last_update": 1637095072000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/README.md",
-            "prop_content": {
-                "author": "Kingsman44",
-                "description": "Enables pixel exclusive features :- Call Screening, Direct Call, Google Dialer Call Recording, Extreme Battery Saver, Hold For Me, Gboard Smart Compose, Adaptive Connectivity, Adaptive Sound, Next generation assistant, Pixel LiveWallpapers, Google Fit Heart rate and many more...",
-                "id": "Pixelify",
-                "name": "Pixelify",
-                "version": "V1.8",
-                "versionCode": "20211116"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Pixelify/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Pixelify/archive/master.zip"
         },
@@ -649,15 +635,7 @@
             "id": "pixelthemediconexpander",
             "last_update": 1638936212000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/README.md",
-            "prop_content": {
-                "author": "trzpro",
-                "description": "Expands icon number of Material You Themed Icons",
-                "id": "pixelthemediconexpander",
-                "name": "Pixel Launcher Material You Icon Pack",
-                "support": "",
-                "version": "v1",
-                "versionCode": "3"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/pixel_themed_icon_expander/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/pixel_themed_icon_expander/archive/master.zip"
         },
@@ -665,14 +643,7 @@
             "id": "quickstepswitcher",
             "last_update": 1636729117000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/README.md",
-            "prop_content": {
-                "author": "The Lawnchair team",
-                "description": "Pie recents for any supported launcher",
-                "id": "quickstepswitcher",
-                "name": "QuickSwitch (Android Pie+)",
-                "version": "v3.1.8",
-                "versionCode": "3180"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/quickstepswitcher/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/quickstepswitcher/archive/master.zip"
         },
@@ -727,14 +698,7 @@
             "id": "riru_clipboard_whitelist",
             "last_update": 1643600047000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_clipboard_whitelist/master/README.md",
-            "prop_content": {
-                "author": "Kr328",
-                "description": "A module of Riru. Add clipboard whitelist to Android 10.",
-                "id": "riru_clipboard_whitelist",
-                "name": "Riru - Clipboard Whitelist",
-                "version": "v10",
-                "versionCode": "10"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_clipboard_whitelist/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_clipboard_whitelist/archive/master.zip"
         },
@@ -759,14 +723,7 @@
             "id": "riru_ifw_enhance",
             "last_update": 1636740871000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/README.md",
-            "prop_content": {
-                "author": "Kr328",
-                "description": "A module of Riru. Enhance intent firewall.",
-                "id": "riru_ifw_enhance",
-                "name": "Riru - IFW Enhance",
-                "version": "v7",
-                "versionCode": "7"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_ifw_enhance/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_ifw_enhance/archive/master.zip"
         },
@@ -774,14 +731,7 @@
             "id": "riru_location_report_enabler",
             "last_update": 1636740814000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/README.md",
-            "prop_content": {
-                "author": "Rikka",
-                "description": "Enable Google Feed & Timeline & Location reprot in unsupported regions by changing system properties in related packages.",
-                "id": "riru_location_report_enabler",
-                "name": "Riru - Location Report Enabler",
-                "version": "v11.0.0.r50.0b1d37f",
-                "versionCode": "50"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_location_report_enabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_location_report_enabler/archive/master.zip"
         },
@@ -789,14 +739,7 @@
             "id": "riru_lsposed",
             "last_update": 1636729002000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/README.md",
-            "prop_content": {
-                "author": "LSPosed Developers",
-                "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 12, 12L DP1. Requires Riru 25.0.1 or above installed.",
-                "id": "riru_lsposed",
-                "name": "Riru - LSPosed",
-                "version": "v1.6.3 (6212)",
-                "versionCode": "6212"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/riru_lsposed/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/riru_lsposed/archive/master.zip"
         },
@@ -804,14 +747,7 @@
             "id": "sqlite3",
             "last_update": 1636740813000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/sqlite3/master/README.md",
-            "prop_content": {
-                "author": "ianmacd",
-                "description": "Provides a statically linked sqlite3 binary for ARM aarch64 devices",
-                "id": "sqlite3",
-                "name": "SQLite for ARM aarch64 devices",
-                "version": "v1.3",
-                "versionCode": "13"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/sqlite3/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/sqlite3/archive/master.zip"
         },
@@ -819,14 +755,7 @@
             "id": "ssh",
             "last_update": 1636740806000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ssh/master/README.md",
-            "prop_content": {
-                "author": "D4rCM4rC",
-                "description": "OpenSSH and Rsync bundled with simple start scripts for Android with Magisk",
-                "id": "ssh",
-                "name": "SSH for Magisk",
-                "version": "v0.12",
-                "versionCode": "12"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ssh/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ssh/archive/master.zip"
         },
@@ -834,14 +763,7 @@
             "id": "Systemless_TZData",
             "last_update": 1636740816000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Systemless_TZData/master/README.md",
-            "prop_content": {
-                "author": "Ryaniskira & Nkh0472 & GrayJackFixxxer",
-                "description": "Update your ROM's tzdata (timezone data) file systemlessly. 2020F is installed on Android 10 and above, 2020A is installed on older versions.",
-                "id": "Systemless_TZData",
-                "name": "Systemless TZData",
-                "version": "2020A&F",
-                "versionCode": "16"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/Systemless_TZData/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/Systemless_TZData/archive/master.zip"
         },
@@ -849,14 +771,7 @@
             "id": "terminalmods",
             "last_update": 1636740745000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminalmods/master/README.md",
-            "prop_content": {
-                "author": "Skittles9823",
-                "description": "Android terminal - The way it should be",
-                "id": "terminalmods",
-                "name": "Terminal Modifications",
-                "version": "v1.4.6",
-                "versionCode": "146"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminalmods/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminalmods/archive/master.zip"
         },
@@ -864,14 +779,7 @@
             "id": "terminal_debloater",
             "last_update": 1636740355000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_debloater/master/README.md",
-            "prop_content": {
-                "author": "veez21",
-                "description": "Debloat your device Systemless-ly! With choices for debloating in Terminal Emulator for every device.",
-                "id": "terminal_debloater",
-                "name": "Debloater (Terminal Emulator)",
-                "version": "v17.3.3",
-                "versionCode": "76"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_debloater/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_debloater/archive/master.zip"
         },
@@ -879,15 +787,7 @@
             "id": "terminal_systemizer",
             "last_update": 1636740346000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/README.md",
-            "prop_content": {
-                "author": "veez21",
-                "description": "Turn apps to System Apps Systemlessly! Supports all device running Magisk.",
-                "id": "terminal_systemizer",
-                "minMagisk": "18000",
-                "name": "App Systemizer (Terminal Emulator)",
-                "version": "v17.3.1",
-                "versionCode": "70"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/terminal_systemizer/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/terminal_systemizer/archive/master.zip"
         },
@@ -895,15 +795,7 @@
             "id": "ViPER4AndroidFX",
             "last_update": 1636740313000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/README.md",
-            "prop_content": {
-                "author": "ViPER520, ZhuHang, Pittvandewitt, MrWhite214, Zackptg5",
-                "description": "ViPER4AndroidFX reborn - v2.7.x",
-                "id": "ViPER4AndroidFX",
-                "name": "ViPER4Android FX ",
-                "support": "https://forum.xda-developers.com/android/apps-games/app-viper4android-fx-2-6-0-0-t3774651",
-                "version": "v2.7.2.1",
-                "versionCode": "2721"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/ViPER4Android-FX/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/ViPER4Android-FX/archive/master.zip"
         },
@@ -911,16 +803,7 @@
             "id": "WDAnimationcxair",
             "last_update": 1636740878000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/WDAnimationcxair/master/README.md",
-            "prop_content": {
-                "Follow": "https://t.me/MGStoreEthiopia",
-                "author": "Mikesew1320",
-                "description": "A module that helps to switch the Boot Animation, Shutdown Anmation and  Emojis to one of the Animations and Emojis included in this module for any supported device using volumekeys during installation.",
-                "id": "WDAnimationcxair",
-                "name": "BootAMoji Switcher",
-                "support": "https://t.me/MGStoreEthiopia or https://t.me/Mikesew1320 or https://t.me/BootAnimationSwitcherBot or https://github.com/Magisk-Modules-Repo/WDAnimationcxair",
-                "version": "v7.5-(Harar)",
-                "versionCode": "75"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/WDAnimationcxair/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/WDAnimationcxair/archive/master.zip"
         },
@@ -928,14 +811,7 @@
             "id": "wifi5ghzdisabler",
             "last_update": 1636729113000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/wifi5ghzdisabler/master/README.md",
-            "prop_content": {
-                "author": "danielchc",
-                "description": "Disable WiFi 5Ghz Band on your Qualcomm device",
-                "id": "wifi5ghzdisabler",
-                "name": "WiFi5GhzDisabler",
-                "version": "v1",
-                "versionCode": "1"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/wifi5ghzdisabler/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/wifi5ghzdisabler/archive/master.zip"
         },
@@ -943,14 +819,7 @@
             "id": "xmlpak",
             "last_update": 1636740866000,
             "notes_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/xmlpak/master/README.md",
-            "prop_content": {
-                "author": "Tadi (j1505243 at xda)",
-                "description": "This module enables you to download and install vendor apps from Google Play. Compatibility is not guaranteed.",
-                "id": "xmlpak",
-                "name": "xmlpak \u2013 a road to vendor apps",
-                "version": "v3.6",
-                "versionCode": "36"
-            },
+            "prop_content": null,
             "prop_url": "https://raw.githubusercontent.com/Magic-Mask-Repo/xmlpak/master/module.prop",
             "zip_url": "https://github.com/Magic-Mask-Repo/xmlpak/archive/master.zip"
         }
